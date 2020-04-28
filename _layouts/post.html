@@ -1,0 +1,49 @@
+---
+layout: default
+comments: true
+---
+
+<article itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+        <meta itemprop="url" content="{{ site.url }}/images/tomato.png"/>
+        <meta itemprop="height" content="250"/>
+        <meta itemprop="width" content="250"/>
+    </div>
+    <meta itemprop="image" content=""/>
+    <div itemscope="" itemprop="author" itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="Ilarion Halushka"/>
+    </div>
+    <div itemscope="" itemprop="publisher" itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="256 Bloghacks"/>
+        <div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+            <meta itemprop="url" content="{{ site.url }}/images/tomato.png"/>
+            <meta itemprop="height" content="250"/>
+            <meta itemprop="width" content="250"/>
+        </div>
+    </div>
+    <p>
+    <span itemprop="datePublished dateModified" datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%B %-d, %Y" }}
+    </span>
+    </p>
+    <h1 itemprop="name headline mainEntityOfPage">{{ page.title }}</h1>
+    {{ content }}
+</article>
+
+<div class="disqus" id="disqus_thread"></div>
+<script>
+	var disqus_config = function () {
+		this.page.url = document.location.href.split('?')[0].split('#')[0];
+		this.page.identifier = this.page.url;
+	};
+    (function() {
+        var d = document, s = d.createElement('script');
+
+        s.src = 'https://https-ilarionhalushka-github-io.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<script id="dsq-count-scr" src="//https-ilarionhalushka-github-io.disqus.com/count.js" async></script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

@@ -1,11 +1,19 @@
 ---
-layout: default
-title:  "Vacancies analysis for Software Testers"
-date:   2020-04-26 13:57:33 +0300
+layout: post
+title:  "Vacancies analysis for QA Engineers"
+date:   2020-04-26
+description: |
+  Vacancies analysis for QA Engineers using Data Mining
+keywords:
+    - quality assurance
+    - qa engineer
+    - software tester
+    - what to learn next
+    - career path
+    - how to become senior qa
+    - how to become middle qa
+tags: career
 ---
-# Vacancies analysis for QA Engineers
-
-<br/>
 
 ## Speed of career growth
 
@@ -42,7 +50,7 @@ However, let’s consider a better analytical way.
 
 
 ## Vacancies analysis
-&nbsp;&nbsp;&nbsp; Many companies provide public APIs for accessing some of their public data, in our case the API of rabota.ua. 
+&nbsp;&nbsp;&nbsp; Many companies provide public APIs for accessing some of their public data. 
 
 &nbsp;&nbsp;&nbsp; So there was developed a system for fetching vacancies from public API by keyword ‘qa engineer’.
 Around 400 vacancies were collected and analysed.
@@ -74,7 +82,7 @@ of mastering other tools and technologies can be not that fast.
 &nbsp;&nbsp;&nbsp; Hope that after scrolling through statistics you have some idea about what to learn next.
 Good luck in your explorations ;)
 
-**A day without your mind working is a wasted day.**
+**A day without your mind working is a day wasted.**
 
 **Who doesn't go forward stays behind.**
 
