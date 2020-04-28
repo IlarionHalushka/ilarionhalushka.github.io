@@ -5,6 +5,16 @@ layout: compress
 <html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164758011-1"></script>
+    <script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-164758011-1');
+    </script>
+
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
@@ -28,6 +38,12 @@ layout: compress
             <input name="sitesearch" value="ilarionhalushka.github.io" type="hidden"/>
             <input type="text" name="q" placeholder="Search" autocomplete="off" size="30"/>
         </form>
+
+        <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+            <input name="sitesearch" type="hidden" value="ilarionhalushka.github.io">
+            <input autocomplete="off" class="form-control search" name="q" placeholder="Search" required="required"  type="text">
+            <button class="button" type="submit">Search</button>
+        </form>
     </header>
 </div>
 
@@ -46,16 +62,6 @@ layout: compress
         {% endif %}
     </footer>
 </div>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164758011-1"></script>
-<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'UA-164758011-1');
-</script>
 
 </body>
 </html>
