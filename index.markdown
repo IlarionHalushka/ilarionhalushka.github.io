@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-List of posts:
+### List of posts:
 <ul>
   {% for post in site.posts %}
     <li>

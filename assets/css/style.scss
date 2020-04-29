@@ -6,3 +6,51 @@
 #forkme_banner {
     display: none;
 }
+
+.searchform {
+    padding: 20px 0 0 0;
+    background: none;
+}
+
+.searchform input {
+    width: 30%;
+    height: 25px;
+    padding: 6px 12px;
+    font-size: 14px;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s
+}
+
+.searchform button {
+    height: 35px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+
+$bgcolor: #070719;
+
+#header_wrap {
+    background: linear-gradient(to top, $bgcolor, #0a062a);
+}
+
+#footer_wrap {
+    background: $bgcolor;
+}
+
+html {
+    background: $bgcolor;
+}
+
+
+
