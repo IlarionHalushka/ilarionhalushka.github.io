@@ -1,0 +1,25 @@
+linkedin:
+  id: 'ilarion-halushka-6a31a5173'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+github:
+  id: 'IlarionHalushka'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+stackoverflow:
+  id: '9110955/ilarion-halushka'
+  href: 'https://stackoverflow.com/users/'
+  title: 'Stackoverflow'
+  fa-icon: 'fa-stack-overflow'
+
+facebook:
+  id: 'ilarion.halushka'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+

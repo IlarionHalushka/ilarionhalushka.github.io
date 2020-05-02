@@ -53,5 +53,18 @@ html {
     background: $bgcolor;
 }
 
+#main_content a {
+    color: blue;
+}
 
-
+.fa-stack-overflow.fa-3x {
+    position: relative;
+    top: -.2em;
+    padding: .15em;
+    font-size: 2em;
+    color: #000000;
+    background-color: #0F79D0;
+    border-radius: 0.2em;
+    width: 1em;
+    text-align: center;
+}
