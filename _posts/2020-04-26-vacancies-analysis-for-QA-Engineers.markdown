@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Vacancies analysis for QA Engineers"
+title:  Vacancies analysis for QA Engineers
 date:   2020-04-26
 description: |
-  Vacancies analysis for QA Engineers using Data Mining
+  Vacancies analysis for QA Engineers using 400 vacancies fetched from public API.
+  Analysis results provide information about "Popularity of skills by categories", "Popularity of skills", "Popularity of programming languages", "Level of English fluency".
+image: /assets/images/popularity-of-skills.png
+author: Ilarion Halushka
 keywords:
     - quality assurance
     - qa engineer
@@ -17,12 +20,12 @@ tags: career
 
 ## Speed of career growth
 
-#### Junior. Lightspeed 
+#### Junior. Lightspeed.
 &nbsp;&nbsp;&nbsp; As we all know the professional growth goes approximately this way: 
 the first year of your dedicated work in one field gives you lots of experience
 as long as you are not sitting at the same place. This level is called Junior.
 
-#### Middle. Still going
+#### Middle. Still going.
 &nbsp;&nbsp;&nbsp; For the next couple of years on your career path you feel more comfortable 
 and you are performing way better than in the first year. But how much experience
 you gained comparing to the first year. General case is that you are still growing pretty fast,
@@ -30,12 +33,12 @@ learning new things, becoming more comfortable with technologies you use at work
 But it’s not so fast as it used to be in your starting year. 
 This level is called Middle.
  
-#### Senior. Danger of routine
+#### Senior. Danger of routine.
 &nbsp;&nbsp;&nbsp; As the years are passing you by and you have approx
 5 years of experience you are now called Senior. All the things that you have done within 
 these 5 years are already a routine for you and you feel pretty comfortable at your workplace. 
 
-#### More comfortable - less experience
+#### More comfortable - less experience.
 
 &nbsp;&nbsp;&nbsp; At the same time, the more comfortable you are the less professional experience 
 and career growth you get as a specialist. Moreover, the technologies and skills that you learned when you were Junior specialist are most likely not in trend anymore and slowly a specialist becomes unneeded on the job market.
@@ -56,16 +59,16 @@ However, let’s consider a better analytical way.
 Around 400 vacancies were collected and analysed.
 
 #### Popularity of skills by categories:
-<img src="/assets/images/popularity-of-skills-by-categories.png" alt="Popularity of skills by categories" width="600"/>
+{% include lazyload.html image_src="/assets/images/popularity-of-skills-by-categories.png" image_alt="Popularity of skills by categories" image_title="Popularity of skills by categories" %}
 
 #### Popularity of skills:
-<img src="/assets/images/popularity-of-skills.png" alt="Popularity of skills" width="600"/>
+{% include lazyload.html image_src="/assets/images/popularity-of-skills.png" image_alt="Popularity of skills" image_title="Popularity of skills" %}
 
 #### Popularity of programming languages:
-<img src="/assets/images/popularity-of-programming-languages.png" alt="Popularity of programming languages" width="600"/>
+{% include lazyload.html image_src="/assets/images/popularity-of-programming-languages.png" image_alt="Popularity of programming languages" image_title="Popularity of programming languages" %}
 
 #### Level of English fluency 
-<img src="/assets/images/level-of-english-fluency.png" alt="Level of English fluency" width="600"/>
+{% include lazyload.html image_src="/assets/images/level-of-english-fluency.png" image_alt="Level of English fluency" image_title="Level of English fluency" %}
 
 
 ## Conclusion

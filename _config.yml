@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: IT Blog by Ilarion Halushka
+tagline: IT Blog by Ilarion Halushka Software Engineer QA Automation Engineer
 email: hilarion.galushka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer, ex QA Automation Engineer
@@ -26,6 +27,18 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  IlarionHalushka
+author: Ilarion Halushka
+logo: /assets/images/ilarion-halushka-logo.png
+social:
+  name: Ilarion Halushka
+  links:
+    - https://www.linkedin.com/in/ilarion-halushka-6a31a5173
+    - https://github.com/IlarionHalushka
+    - https://stackoverflow.com/users/9110955/ilarion-halushka
+    - https://www.facebook.com/ilarion.halushka
+permalink: /:title/
+sass:
+  style: compressed
 
 # Build settings
 theme: jekyll-theme-slate

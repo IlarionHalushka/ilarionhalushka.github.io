@@ -4,7 +4,6 @@ title: About author
 permalink: /about/
 ---
 
-
 <img align="right" src="/assets/images/about-me-my-photo.jpg" alt="Ilarion Halushka" width="135" height="178"/>
 
 Hi! I’m Ilarion Halushka.
