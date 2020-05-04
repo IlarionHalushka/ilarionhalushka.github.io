@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Vacancies analysis for QA Engineers
+title:  Vacancies analysis for QA Engineers.
 date:   2020-04-26
 description: |
+  Software tester skills.
   Vacancies analysis for QA Engineers using 400 vacancies fetched from public API.
   Analysis results provide information about "Popularity of skills by categories", "Popularity of skills", "Popularity of programming languages", "Level of English fluency".
 image: /assets/images/popularity-of-skills.png

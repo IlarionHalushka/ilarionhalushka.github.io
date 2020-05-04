@@ -68,3 +68,59 @@ html {
     width: 1em;
     text-align: center;
 }
+
+.share-box a {
+    display: inline-block;
+    -webkit-box-shadow: 0 0 1px #777;
+    box-shadow: 0 0 1px #777;
+    padding: 5px 12px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+.share-box a:hover {
+    text-decoration: none;
+    -webkit-transition: background-color 200ms linear;
+    -ms-transition: background-color 200ms linear;
+    transition: background-color 200ms linear;
+}
+
+.facebook {
+    color: #3b5998 !important;;
+}
+.facebook:hover {
+    color: #fff !important;;
+    background-color: #3b5998 !important;;
+}
+
+.twitter {
+    color: #4099FF !important;
+}
+.twitter:hover {
+    color: #fff !important;
+    background-color: #4099FF !important;;
+}
+
+.reddit {
+    color: #ff5700 !important;;
+}
+.reddit:hover {
+    color: #fff !important;;
+    background-color: #ff5700 !important;;
+}
+
+.linkedin {
+    color: #0077b5 !important;;
+}
+.linkedin:hover {
+    color: #fff !important;;
+    background-color: #0077b5 !important;;
+}
+
+.email {
+    color: #444444 !important;;
+}
+.email:hover {
+    color: #fff !important;;
+    background-color: #444444 !important;;
+}
