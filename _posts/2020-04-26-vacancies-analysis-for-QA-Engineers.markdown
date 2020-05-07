@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Vacancies analysis for QA Engineers.
-date:   2020-04-26
+title: Top skills every Software Tester (QA Engineer) should know.
+date: 2020-04-26
 description: |
-  Software tester skills.
+  Software tester skills. Top skills for Software Tester. Top skills every Software Tester should have.
   Vacancies analysis for QA Engineers using 400 vacancies fetched from public API.
-  Analysis results provide information about "Popularity of skills by categories", "Popularity of skills", "Popularity of programming languages", "Level of English fluency".
-image: /assets/images/popularity-of-skills.png
+  Top skills by categories, Top skills, Top programming languages, Level of English fluency.
+image: /assets/images/top-of-skills-every-software-tester-should-have.png
 author: Ilarion Halushka
 keywords:
     - quality assurance
@@ -59,14 +59,14 @@ However, let’s consider a better analytical way.
 &nbsp;&nbsp;&nbsp; So there was developed a system for fetching vacancies from public API by keyword ‘qa engineer’.
 Around 400 vacancies were collected and analysed.
 
-#### Popularity of skills by categories:
-{% include lazyload.html image_src="/assets/images/popularity-of-skills-by-categories.png" image_alt="Popularity of skills by categories" image_title="Popularity of skills by categories" %}
+#### Top of skills by categories:
+{% include lazyload.html image_src="/assets/images/top-of-skills-by-categories-every-software-tester-should-have.png" image_alt="Top of skills by categories every Software Tester should have" image_title="Top of skills by categories" %}
 
-#### Popularity of skills:
-{% include lazyload.html image_src="/assets/images/popularity-of-skills.png" image_alt="Popularity of skills" image_title="Popularity of skills" %}
+#### Top of skills:
+{% include lazyload.html image_src="/assets/images/top-of-skills-every-software-tester-should-have.png" image_alt="Top of skills every Software Tester should have" image_title="Top of skills" %}
 
-#### Popularity of programming languages:
-{% include lazyload.html image_src="/assets/images/popularity-of-programming-languages.png" image_alt="Popularity of programming languages" image_title="Popularity of programming languages" %}
+#### Top of programming languages:
+{% include lazyload.html image_src="/assets/images/top-of-programming-languages-every-software-tester-should-know.png" image_alt="Top of programming languages every Software Tester should have" image_title="Top of programming languages" %}
 
 #### Level of English fluency 
 {% include lazyload.html image_src="/assets/images/level-of-english-fluency.png" image_alt="Level of English fluency" image_title="Level of English fluency" %}

@@ -45,6 +45,10 @@ $bgcolor: #070719;
     background: linear-gradient(to top, $bgcolor, #0a062a);
 }
 
+#header_wrap .inner {
+    padding: 20px 10px 20px 10px;
+}
+
 #footer_wrap {
     background: $bgcolor;
 }
@@ -123,4 +127,20 @@ html {
 .email:hover {
     color: #fff !important;;
     background-color: #444444 !important;;
+}
+
+.main-nav {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.main-nav a {
+    color: #F2F2F2;
+    font-size: 25px;
+    text-decoration: underline;
+    margin-inline-end: 30px;
+}
+
+.main-nav a.active {
+    color: #0F79D0;
 }
