@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-### List of posts:
-<ul>
+### Posts:
+<ul class="posts-list">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
