@@ -50,14 +50,9 @@ layout: compress
 <div id="header_wrap" class="outer">
     <header class="inner">
         <nav class="main-nav">
-<!--            <ul>-->
-                {% for item in site.menus.header %}
-<!--                    <li class="menu-item-{{ loop.index }}">-->
-<!--                        <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>-->
-<!--                    </li>-->
-                <a href="{{ item.url }}" {% if item.url == page.url %}class="active"{% endif %}>{{item.title}}</a>
+                {% for item in site.data.menus.header %}
+                    <a href="{{ item.url }}" {% if item.url == page.url %}class="active"{% endif %}>{{item.title}}</a>
                 {% endfor %}
-<!--            </ul>-->
         </nav>
 
         {% if site.github.is_project_page %}

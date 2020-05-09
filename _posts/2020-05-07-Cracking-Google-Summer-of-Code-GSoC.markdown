@@ -25,7 +25,7 @@ tags: career, GSoC, open-source
 #### Improve coding skills.
 
 &nbsp;&nbsp;&nbsp; Needless to say that 400 hours of coding under experienced mentor's supervision is a great boost for your skills.
-Even though I already had about 2 years of development experience my skills have improved.
+Even though I already had about 3 years of development experience my skills have improved.
 
 #### Make impact.
 
