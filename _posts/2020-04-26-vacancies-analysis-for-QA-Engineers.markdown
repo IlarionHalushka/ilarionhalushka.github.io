@@ -27,15 +27,15 @@ the first year of your dedicated work in one field gives you lots of experience
 as long as you are not sitting at the same place. This level is called Junior.
 
 #### Middle. Still going.
-&nbsp;&nbsp;&nbsp; For the next couple of years on your career path you feel more comfortable 
-and you are performing way better than in the first year. But how much experience
-you gained comparing to the first year. General case is that you are still growing pretty fast,
+&nbsp;&nbsp;&nbsp; For the next couple of years on your career path you feel more comfortable, 
+and you are performing way better than in the first year. How much experience
+you gained comparing to the first year? General case is that you are still growing pretty fast,
 learning new things, becoming more comfortable with technologies you use at work.
-But it’s not so fast as it used to be in your starting year. 
+However, it’s not so fast as it used to be in your starting year. 
 This level is called Middle.
  
 #### Senior. Danger of routine.
-&nbsp;&nbsp;&nbsp; As the years are passing you by and you have approx
+&nbsp;&nbsp;&nbsp; As the years are passing you by, and you have approx
 5 years of experience you are now called Senior. All the things that you have done within 
 these 5 years are already a routine for you and you feel pretty comfortable at your workplace. 
 
@@ -57,7 +57,7 @@ However, let’s consider a better analytical way.
 &nbsp;&nbsp;&nbsp; Many companies provide public APIs for accessing some of their public data. 
 
 &nbsp;&nbsp;&nbsp; So there was developed a system for fetching vacancies from public API by keyword ‘qa engineer’.
-Around 400 vacancies were collected and analysed.
+Around 400 vacancies have been collected and analysed.
 
 #### Top of skills by categories:
 {% include lazyload.html image_src="/assets/images/top-of-skills-by-categories-every-software-tester-should-have.png" image_alt="Top of skills by categories every Software Tester should have" image_title="Top of skills by categories" %}
@@ -75,8 +75,8 @@ Around 400 vacancies were collected and analysed.
 ## Conclusion
 &nbsp;&nbsp;&nbsp; To sum up the performed analysis I may conclude 
 that the most important thing the test engineer needs
-to master is English language because all of the state-of-the-art technologies,
-documentation, guides, forums are in English. Also most of the colleagues
+to master is English language because all the state-of-the-art technologies,
+documentation, guides, forums are in English. Also, most of the colleagues
 and clients are likely to be English speaking. Without this tool the path 
 of mastering other tools and technologies can be not that fast.
 

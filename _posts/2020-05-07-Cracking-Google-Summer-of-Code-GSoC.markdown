@@ -118,6 +118,7 @@ I always asked mentor about how can I help him.
 This way I got opportunity to work on:
 CI, logging setup, framework upgrade, replacement of major UI components, app share function, bugs, tests, etc.
 
+**The more you give, the more you receive.**
 
 
 
