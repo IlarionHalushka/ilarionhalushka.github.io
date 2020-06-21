@@ -1,103 +1,100 @@
 ---
 layout: post
-title: How To Choose Between Multiple Job Offers.
-date: 2020-06-12
+title: Learning Multiple Foreign Languages.
+date: 2020-06-21
 description: |
-  Scientific way for choosing best job offer. 
-  Applying Decision Theory to the problem of choosing the best job offer.
-  What to do when you are not sure which job offer is the best.
-  Which criteria you should consider when choosing a job offer.
+  How I learned two foreign languages. 
+  Learning English, German.
+  How to learn English and German.
 
-image: /assets/images/how-to-choose-between-multiple-job-offers-table.png
+image: /assets/images/english-german.png
 
 author: Ilarion Halushka
 keywords:
-    - Best Job Offer
-    - Decision Theory
-    - Applying Maths in real life problems
-    - Criteria for choosing a job
-tags: career, maths, offer
+    - Learning Foreign Languages
+    - Learning English
+    - Learning German
+tags: languages, self-development, english
 ---
 
-&nbsp;&nbsp;&nbsp; I won't talk about why it's important to choose a workplace and how your whole life depends on one decision.
+&nbsp;&nbsp;&nbsp; Many people find it unusual when someone speaks multiple languages. 
+In my case it's 4 languages: 2 native - Ukrainian, Russian, and 2 foreign - English, German.
 
-## Who it may concern
+Speaking multiple languages makes you a diversified person and makes you look differently this world.
+It also opens doors to new opportunities and gives you many advantages in life.
 
-&nbsp;&nbsp;&nbsp; You are a professional in your field, and the job market is hot, which means you can easily get multiple offers.
-Even if there are only 2 companies which sent you an offer, you may find this article useful.
+## When someone asks me "How did you learn...?"
 
-## Maths. Decision Theory.
+— How did you learn two foreign languages?
 
-&nbsp;&nbsp;&nbsp; When there are multiple options (offers), and the decision has to be made based on some criteria,
-the scientific way to solve this problem is to use Decision Theory.
+— Well, please name 10 possible ways how one can learn a language.
 
-## Criteria to consider
+— Ok.
+ * Sign up for a course.
+ * Learn at school(university).
+ * Hire a tutor.
+ * Watch movies
+ * Read books.
+ * Youtube courses.
+ * Educational mobile apps.
+ * Talking with native speakers.
+ * Listening to music.
+ * Surround yourself with target language: translate a phone, PC, etc.
+ * Take notes.
+ * Create a dictionary.
 
-* **Salary**
-* **Remote**: yes/party/no
-* **Company Type**: product/outsource/outstaff/start-up
-* **Company Reputation**
-* **Project**: ongoing/new/legacy
-* **Project Complexity**: easy/moderate/complex
-* **Team professionalism**: juniors/middles/seniors
-* **Tech Stack**: modern, outdated
-* **Career growth**: slow/normal/fast
-* **Team size**: small/medium/large
-* **Development processes**: poor/ok/good
-* **Overtimes**: no/sometimes/yes, paid/unpaid
-* **Bureaucracy**: no/bearable/unbearable
-* **Location**: 30m/1h/1h30m
-* **Vacations and holidays**: 20/30, paid/unpaid 
-* **Relocation package**
-* **Signing bonus**
-* **Medical insurance**: no/cheap/good
-* **Conferences, Sport compensation**: no/yes
+— Yes!
 
-## Criteria assessment
+— What "yes"?
 
-&nbsp;&nbsp;&nbsp; Obviously, all criteria have different importance (weight).
-Moreover, the importance may differ for each individual.
-
-&nbsp;&nbsp;&nbsp; So to compare criteria of different importance a simple calculation has to be performed:
-
-```criteria grade (CG) = importance * value```
-
-&nbsp;&nbsp;&nbsp; The optimal options for importance and value are: 1, 2, 3, 4, 5.
-
-&nbsp;&nbsp;&nbsp; For instance, **Career Growth** has critical importance (4) for a candidate
- and company provides excellent growth opportunities (5), then: 
- 
-```criteria grade (CG) = 4 * 5 = 20```
-
-## Evaluation of 1 offer
-
-&nbsp;&nbsp;&nbsp; After all criteria grades are being calculated it's time to evaluate each offer:
-
-```offer grade (OG) = SUM(CG) / N```
-
-where `SUM(CG)` is the sum of all criteria grades (CG) and `N` is the total count of criteria considered.
-
-## Comparing offers
-
-&nbsp;&nbsp;&nbsp; Last step is just sort offer grades in descending order
-and top offer will be the first on the list.
+— Yes! I did all that you mentioned.
 
 
-## Excel example
+## Persistence.
 
-&nbsp;&nbsp;&nbsp; Simple example table with formulas can be found [here](https://docs.google.com/spreadsheets/d/1FxxJnf5xfQh8zEDunn90jcqkF2UM8rv2e9bo47EbXLQ/edit?usp=sharing).
-Just make a copy of the sheet, fill your criteria values and importance,
- and it will do the calculations.
- 
+&nbsp;&nbsp;&nbsp; Interesting fact is during such a conversation no one talks about persistence in learning.
+Since I am 16 y.o. I learn every single day. Even if it's only 5-10 minutes a day it still counts.
 
-## Conclusion
 
-&nbsp;&nbsp;&nbsp; I suggest you to make a thorough research on the companies that you are considering as the next work place.
+**Learning a language is not a sprint, it's a marathon.**
 
-We spend half of our conscious life at work, so it's better to spend a few extra days analysing options and making sure it's the right decision.
- 
-**The right decision at the right time upon your choice can make your life like flowers; otherwise, it will be as thorns. The first one you will enjoy, and the other one you have to bear.**
-© Ehsan Sehgal
+
+## Learn as kids do.
+
+&nbsp;&nbsp;&nbsp; Kid sees a ball 1st time and hears "ball" but has no idea (association) what it is. 
+When kid plays a ball 10-50-100 times and hears same word in a similar situation then it starts to associate playing a ball with the word "ball".
+The process of learning is absolutely same for adults.
+
+&nbsp;&nbsp;&nbsp;  That's why I think it's important to surround yourself with the target language as much as possible:
+* translate your phone, PC.
+* listen to music.
+* watch series.
+* google using target language.
+* read articles.
+* if you are a fan of social media - subscribe to foreign influencers.
+* if you are a fan of video games - join foreign teams.
+
+## Not an act, but a habit.
+
+&nbsp;&nbsp;&nbsp; If you think that you can learn a language and mark it as completed achievement [x].
+I am here to disappoint you that it's a wrong assumption.
+
+&nbsp;&nbsp;&nbsp;  Once you mark it as complete [x] and quit learning, the knowledge slowly fades away. Similar logic applies to training muscles.
+You have to accept that learning a language should become your habit and stick forever.
+
+## Enjoy the process.
+
+&nbsp;&nbsp;&nbsp; All human beings have an innate instinct called laziness, which is tightly connected
+to procrastination. 
+
+&nbsp;&nbsp;&nbsp; There are many ways to fight laziness but in this article I will just say that you have to enjoy the learning process.
+There is no silver bullet that will help you learn a language in a few months.
+However, if you combine learning with joy - the habit is more likely to stick with you.
+
+**As many languages you know, as many times you are a human being.** © J.W.Goethe
+
+
+
 
 
 

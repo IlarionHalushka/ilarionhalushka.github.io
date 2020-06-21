@@ -94,7 +94,7 @@ Just make a copy of the sheet, fill your criteria values and importance,
 
 &nbsp;&nbsp;&nbsp; I suggest you to make a thorough research on the companies that you are considering as the next work place.
 
-We spend half of our conscious life at work, so it's better to spend a few extra days analysing options and making sure it's the right decision.
+&nbsp;&nbsp;&nbsp;  We spend half of our conscious life at work, so it's better to spend a few extra days analysing options and making sure it's the right decision.
  
 **The right decision at the right time upon your choice can make your life like flowers; otherwise, it will be as thorns. The first one you will enjoy, and the other one you have to bear.**
 © Ehsan Sehgal
