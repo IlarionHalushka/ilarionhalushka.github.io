@@ -130,15 +130,16 @@ html {
 }
 
 .main-nav {
-    text-align: center;
+    text-align: left;
     margin-bottom: 10px;
 }
 
 .main-nav a {
     color: #F2F2F2;
-    font-size: 25px;
+    font-size: 39px;
     text-decoration: underline;
-    margin-inline-end: 30px;
+    margin-inline-end: 2px;
+    font-weight: bold;
 }
 
 .main-nav a.active {

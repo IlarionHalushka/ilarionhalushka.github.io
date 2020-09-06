@@ -22,4 +22,10 @@ facebook:
   title: 'Facebook'
   fa-icon: 'fa-facebook-square'
 
+instagram:
+  id: 'h.i.l.a.r.i.o.n'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
+
 
