@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TITLE.
+title: Results Of My IT Courses.
 date: 2021-01-08
 description: |
   Short story of how I taught my friends C.Sc., 
