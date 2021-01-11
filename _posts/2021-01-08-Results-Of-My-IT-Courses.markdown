@@ -33,11 +33,12 @@ Michail | 20 | 4th year student (Mechanical Engineering) | not found
 ## Timing
 
 &nbsp;&nbsp;&nbsp; There are lots of criteria for boosting the search, and most important one is
-[English level](https://ilarionhalushka.github.io/Learning-Multiple-Foreign-Languages/).
+<a target="_blank" href="/Learning-Multiple-Foreign-Languages">English level</a>.
 
 &nbsp;&nbsp;&nbsp; Some students were technically stronger with better English,
 but it took them longer to find a job.
-Definitely luck always plays role in [finding first job](https://ilarionhalushka.github.io/How-To-Find-The-First-Job/).
+Definitely luck always plays role in
+<a target="_blank" href="/How-To-Find-The-First-Job">finding first job</a>.
 
 &nbsp;&nbsp;&nbsp; On average the course took around 1 month of full time studying (200-300 hours).
 
