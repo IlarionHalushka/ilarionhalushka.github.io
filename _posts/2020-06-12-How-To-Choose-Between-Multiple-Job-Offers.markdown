@@ -34,7 +34,7 @@ the scientific way to solve this problem is to use Decision Theory.
 ## Criteria to consider
 
 * **Salary**
-* **Remote**: yes/party/no
+* **Remote**: yes/partly/no
 * **Company Type**: product/outsource/outstaff/start-up
 * **Company Reputation**
 * **Project**: ongoing/new/legacy

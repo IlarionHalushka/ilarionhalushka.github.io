@@ -132,7 +132,7 @@ After you are done with all the items above you can add a "looking for a job" po
 * mention **courses, certifications, personal projects, hackathons, conference speeches**
 * create **github account**
 
-## Conslusion
+## Conclusion
 
 &nbsp;&nbsp;&nbsp; Every little detail is important in finding a job in these competitive times. 
 Even if it's a small typo in your CV it can decrease your chance of getting a job.
