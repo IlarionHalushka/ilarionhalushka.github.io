@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Results of my ~~friends~~ students
+title: Results of my students
 date: 2021-01-08
 description: |
   Short story of how I taught my friends C.Sc., 
@@ -16,7 +16,7 @@ keywords:
 tags: job, career, students
 ---
 
-## Background of students
+## Background of ~~friends~~ students
 
 &nbsp;&nbsp;&nbsp; 3 of 5 were not familial with IT at all. The rest 2 studied some basics in Universities.
 
