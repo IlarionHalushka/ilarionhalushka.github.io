@@ -53,11 +53,11 @@ SQL | 4
 
 ## Timing
 
-TOTAL: ~300 hours to complete whole course and get ready for first interview:
+TOTAL: *~300 hours* to complete whole course and get ready for first interview:
 
-* Lectures: ~30 hours.
-* Homework: ~250 hours.
-* Q&A sessions: ~20 hours.
+* Lectures: *~30 hours*.
+* Homework: *~250 hours*.
+* Q&A sessions: *~20 hours*.
 
 ## Helping Find a Job
 
