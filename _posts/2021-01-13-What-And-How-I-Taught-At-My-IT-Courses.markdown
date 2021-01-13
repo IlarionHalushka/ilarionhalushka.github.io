@@ -31,25 +31,25 @@ Most never completed first task -> filtering worked :)
 
 ## Topics Covered in Course
 
-№ | Topic | Lecture time
---- | --- | ---
-1 | Client-server architecture | 2
-2 | Development methodologies | 1
-3 | HTML | 1
-4 | CSS | 1
-5 | Cache, cookie, local storage | 1
-6 | DNS, URL, domain | 1
-7 | HTTP(S) | 2
-8 | JSON, XML | 1
-9 | Chrome dev tools | 4
-10 | Postman | 1
-11 | OSI model | 1
-12 | Test design techniques | 2
-13 | Test documentation | 1
-14 | Issue management systems | 1
-15 | Test management systems | 1
-16 | Databases | 4
-17 | SQL | 4
+Topic | Lecture time
+--- | ---
+Client-server architecture | 2
+Development methodologies | 1
+HTML | 1
+CSS | 1
+Cache, cookie, local storage | 1
+DNS, URL, domain | 1
+HTTP(S) | 2
+JSON, XML | 1
+Chrome dev tools | 4
+Postman | 1
+OSI model | 1
+Test design techniques | 2
+Test documentation | 1
+Issue management systems | 1
+Test management systems | 1
+Databases | 4
+SQL | 4
 
 ## Timing
 
