@@ -13,7 +13,7 @@ keywords:
     - How to enter IT industry
     - IT for beginners
     - IT courses for students
-tags: job, career, students
+tags: job, career, students, courses
 ---
 
 ## Background of ~~friends~~ students
