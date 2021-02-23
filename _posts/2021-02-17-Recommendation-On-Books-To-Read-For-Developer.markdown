@@ -31,7 +31,7 @@ If I had to read these books again I would start from top and go down one by one
 * Nodejs in Action
 * Cracking the Coding Interview
 
-## My plans to read in 2020:
+## My plans to read in 2021:
 * The Clean Coder
 * You don’t know JS (6 books)
 * Building Event Driven Microservices (O'Reilly)
