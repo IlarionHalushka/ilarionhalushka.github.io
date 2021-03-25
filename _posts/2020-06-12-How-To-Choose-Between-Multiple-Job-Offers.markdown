@@ -19,31 +19,24 @@ keywords:
 tags: career, maths, offer
 ---
 
-&nbsp;&nbsp;&nbsp; I won't talk about why it's important to choose a workplace and how your whole life depends on one decision.
+{% include lazyload.html image_src="/assets/images/how-to-choose-between-multiple-job-offers-table.png" image_alt="Example of comparing two Job Offers based on multiple criteria." image_title="Example of comparing two Job Offers based on multiple criteria." %}
 
-## Who it may concern
+&nbsp;&nbsp;&nbsp; I won't talk about why it's important to choose a workplace and how your whole life depends on one decision. 
+You already know that without me telling you.
 
-&nbsp;&nbsp;&nbsp; You are a professional in your field, and the job market is hot, which means you can easily get multiple offers.
+## Who It May Concern
+
+&nbsp;&nbsp;&nbsp; You are a professional in your field, and the job market is hot,
+which means you can easily get multiple offers. 
 Even if there are only 2 companies which sent you an offer, you may find this article useful.
 
-## Maths. Decision Theory.
-
-&nbsp;&nbsp;&nbsp; When there are multiple options (offers), and the decision has to be made based on some criteria,
-the scientific way to solve this problem is to use Decision Theory.
-
-## Criteria to consider
+## General Criteria to Consider
 
 * **Salary**
 * **Remote**: yes/partly/no
-* **Company Type**: product/outsource/outstaff/start-up
 * **Company Reputation**
-* **Project**: ongoing/new/legacy
-* **Project Complexity**: easy/moderate/complex
-* **Team professionalism**: juniors/middles/seniors
-* **Tech Stack**: modern, outdated
 * **Career growth**: slow/normal/fast
 * **Team size**: small/medium/large
-* **Development processes**: poor/ok/good
 * **Overtimes**: no/sometimes/yes, paid/unpaid
 * **Bureaucracy**: no/bearable/unbearable
 * **Location**: 30m/1h/1h30m
@@ -51,18 +44,35 @@ the scientific way to solve this problem is to use Decision Theory.
 * **Relocation package**
 * **Signing bonus**
 * **Medical insurance**: no/cheap/good
-* **Conferences, Sport compensation**: no/yes
+* **Conferences, Sport compensation**: no/yes 
+* **Team spirit, team buildings, corporate parties**: never/sometimes/often 
+* **Time tracker (screen recording)**: yes/no
 
-## Criteria assessment
+## IT Specific Criteria to Consider
 
-&nbsp;&nbsp;&nbsp; Obviously, all criteria have different importance (weight).
-Moreover, the importance may differ for each individual.
+* **Team professionalism**: juniors/middles/seniors
+* **Project**: ongoing/new/legacy
+* **Project Complexity**: easy/moderate/complex
+* **Tech Stack**: modern, outdated
+* **Development processes**: poor/ok/good
+* **Test coverage**: 0-100%
+* **Deployment process**: manual/automated
+* **Code reviews**: yes/no
+
+## Maths. Decision Theory.
+
+&nbsp;&nbsp;&nbsp; When there are multiple options (offers), and the decision has to be made based on some criteria,
+the scientific way to solve this problem is to use Decision Theory.
+
+## Criteria Assessment
+
+&nbsp;&nbsp;&nbsp; Obviously, all criteria have different importance (weight). Moreover, the importance may differ for each individual.
 
 &nbsp;&nbsp;&nbsp; So to compare criteria of different importance a simple calculation has to be performed:
 
 ```criteria grade (CG) = importance * value```
 
-&nbsp;&nbsp;&nbsp; The optimal options for importance and value are: 1, 2, 3, 4, 5.
+&nbsp;&nbsp;&nbsp; The optimal options for importance and value are 1, 2, 3, 4, 5.
 
 &nbsp;&nbsp;&nbsp; For instance, **Career Growth** has critical importance (4) for a candidate
  and company provides excellent growth opportunities (5), then: 
@@ -77,24 +87,23 @@ Moreover, the importance may differ for each individual.
 
 where `SUM(CG)` is the sum of all criteria grades (CG) and `N` is the total count of criteria considered.
 
-## Comparing offers
+## Comparing Offers
 
-&nbsp;&nbsp;&nbsp; Last step is just sort offer grades in descending order
-and top offer will be the first on the list.
+&nbsp;&nbsp;&nbsp; The last step is just to sort offer grades in descending order and the top offer will be the first on the list.
 
 
-## Excel example
+## Excel Example
 
-&nbsp;&nbsp;&nbsp; Simple example table with formulas can be found [here](https://docs.google.com/spreadsheets/d/1FxxJnf5xfQh8zEDunn90jcqkF2UM8rv2e9bo47EbXLQ/edit?usp=sharing).
+&nbsp;&nbsp;&nbsp; A simple example table with formulas can be found [here](https://docs.google.com/spreadsheets/d/1FxxJnf5xfQh8zEDunn90jcqkF2UM8rv2e9bo47EbXLQ/edit?usp=sharing).
 Just make a copy of the sheet, fill your criteria values and importance,
  and it will do the calculations.
  
 
 ## Conclusion
 
-&nbsp;&nbsp;&nbsp; I suggest you to make a thorough research on the companies that you are considering as the next work place.
+&nbsp;&nbsp;&nbsp; I suggest you make a thorough research on the companies that you are considering as the next workplace.
 
-&nbsp;&nbsp;&nbsp;  We spend half of our conscious life at work, so it's better to spend a few extra days analysing options and making sure it's the right decision.
+&nbsp;&nbsp;&nbsp; We spend half of our conscious life at work, so it's better to spend a few extra days analyzing options and making sure it's the right decision.
  
 **The right decision at the right time upon your choice can make your life like flowers; otherwise, it will be as thorns. The first one you will enjoy, and the other one you have to bear.**
 © Ehsan Sehgal
