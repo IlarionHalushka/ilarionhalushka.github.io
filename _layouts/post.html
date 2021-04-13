@@ -35,19 +35,4 @@ comments: true
     })();
 </script>
 <script id="dsq-count-scr" src="//https-ilarionhalushka-github-io.disqus.com/count.js" async></script>
-<script src="{{ base.url | prepend: site.url }}/assets/js/set-custom-meta-tag.js"></script>
-<script type="text/javascript">
-    console.log('SET NEW META: 2222 MY CUSTOM DESCRIPTION INLINE JS 2222');
-    var allMetaElements = document.getElementsByTagName('meta');
-
-    console.table(allMetaElements);
-
-    for (var i = 0; i < allMetaElements.length; i++) {
-      if (allMetaElements[i].getAttribute("content") === "Recommendation On Books To Read For Javascript Node.js Developer.") {
-        allMetaElements[i].setAttribute('content', "2222 MY CUSTOM DESCRIPTION INLINE JS 2222");
-        break;
-      }
-    }
-    console.table(allMetaElements);
-</script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

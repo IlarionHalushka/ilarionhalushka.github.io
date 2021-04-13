@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Recommendation On Books To Read For Javascript Node.js Developer.
+title: Recommendation On Books To Read For JavaScript Node.js Developer
 date: 2021-02-17
 description: |
-    Recommendation On Books To Read For Javascript Node.js Developer.
+    Recommendation On Books To Read For JavaScript Node.js Developer.
     Books for beginners, experienced developers. My plans on what to read in 2021.
 author: Ilarion Halushka
 keywords:
