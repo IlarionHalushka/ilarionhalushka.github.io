@@ -5,6 +5,20 @@ layout: compress
 <html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
+    <script type="text/javascript">
+      console.log('SET NEW META: 33333 MY CUSTOM DESCRIPTION INLINE JS 33333');
+      var allMetaElements = document.getElementsByTagName('meta');
+
+      console.table(allMetaElements);
+
+      for (var i = 0; i < allMetaElements.length; i++) {
+        if (allMetaElements[i].getAttribute("content") === "Recommendation On Books To Read For Javascript Node.js Developer.") {
+          allMetaElements[i].setAttribute('content', "33333 MY CUSTOM DESCRIPTION INLINE JS 333333");
+          break;
+        }
+      }
+      console.table(allMetaElements);
+    </script>
     <link rel="preconnect dns-prefetch" href="https://www.google-analytics.com" crossorigin>
     <link rel="preconnect dns-prefetch" href="https://a.disquscdn.com" crossorigin>
 
@@ -40,6 +54,38 @@ layout: compress
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+
+    <script type="text/javascript">
+      console.log('SET NEW META: 444444 MY CUSTOM DESCRIPTION INLINE JS 444444');
+      var allMetaElements = document.getElementsByTagName('meta');
+
+      console.table(allMetaElements);
+
+      for (var i = 0; i < allMetaElements.length; i++) {
+        if (allMetaElements[i].getAttribute("content") === "Recommendation On Books To Read For Javascript Node.js Developer.") {
+          allMetaElements[i].setAttribute('content', "444444 MY CUSTOM DESCRIPTION INLINE JS 444444");
+          break;
+        }
+      }
+      console.table(allMetaElements);
+    </script>
+
+    <script type="text/javascript">
+      setTimeout(function() {
+        console.log('SET NEW META: 555555 MY CUSTOM DESCRIPTION INLINE JS 55555');
+        var allMetaElements = document.getElementsByTagName('meta');
+
+        console.table(allMetaElements);
+
+        for (var i = 0; i < allMetaElements.length; i++) {
+          if (allMetaElements[i].getAttribute("content") === "Recommendation On Books To Read For Javascript Node.js Developer.") {
+            allMetaElements[i].setAttribute('content', "555555 MY CUSTOM DESCRIPTION INLINE JS 555555");
+            break;
+          }
+        }
+        console.table(allMetaElements);
+      }, 500)
+    </script>
 
     <script src="/lazysizes.min.js" async=""></script>
 </head>
