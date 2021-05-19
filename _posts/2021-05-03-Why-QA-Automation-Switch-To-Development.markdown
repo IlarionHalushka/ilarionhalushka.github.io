@@ -58,7 +58,9 @@ switch to development earlier.
 
 ## Salaries comparison.
 [https://djinni.co/salaries/qa-manual/](https://djinni.co/salaries/qa-manual/)
+
 [https://djinni.co/salaries/qa-automation/](https://djinni.co/salaries/qa-automation/)
+
 [https://djinni.co/salaries/node.js/](https://djinni.co/salaries/node.js/)
 
 
