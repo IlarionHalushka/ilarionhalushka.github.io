@@ -33,20 +33,26 @@ Even if there are only 2 companies which sent you an offer, you may find this ar
 ## General Criteria to Consider
 
 * **Salary**
+* **Stocks**: yes/no
 * **Remote**: yes/partly/no
+* **Schedule**: flexible/rigid
 * **Company Reputation**
 * **Career growth**: slow/normal/fast
 * **Team size**: small/medium/large
 * **Overtimes**: no/sometimes/yes, paid/unpaid
 * **Bureaucracy**: no/bearable/unbearable
 * **Location**: 30m/1h/1h30m
-* **Vacations and holidays**: 20/30, paid/unpaid 
+* **Vacations**: 20/25/30, paid/unpaid
+* **Public holidays**: paid/unpaid
+* **Sick leave**: yes/no, paid/unpaid
 * **Relocation package**
 * **Signing bonus**
 * **Medical insurance**: no/cheap/good
 * **Conferences, Sport compensation**: no/yes 
 * **Team spirit, team buildings, corporate parties**: never/sometimes/often 
 * **Time tracker (screen recording)**: yes/no
+* **Laptop/tools**: yes/no
+* **Contract duration**: no obligations/ 1 year/2 years
 
 ## IT Specific Criteria to Consider
 
@@ -58,6 +64,7 @@ Even if there are only 2 companies which sent you an offer, you may find this ar
 * **Test coverage**: 0-100%
 * **Deployment process**: manual/automated
 * **Code reviews**: yes/no
+* **Night shift/duty**: yes/no
 
 ## Maths. Decision Theory.
 
