@@ -21,15 +21,6 @@ tags: career, maths, offer
 
 {% include lazyload.html image_src="/assets/images/how-to-choose-between-multiple-job-offers-table.png" image_alt="Example of comparing two Job Offers based on multiple criteria." image_title="Example of comparing two Job Offers based on multiple criteria." %}
 
-&nbsp;&nbsp;&nbsp; I won't talk about why it's important to choose a workplace and how your whole life depends on one decision. 
-You already know that without me telling you.
-
-## Who It May Concern
-
-&nbsp;&nbsp;&nbsp; You are a professional in your field, and the job market is hot,
-which means you can easily get multiple offers. 
-Even if there are only 2 companies which sent you an offer, you may find this article useful.
-
 ## General Criteria to Consider
 
 * **Salary**
@@ -98,13 +89,7 @@ where `SUM(CG)` is the sum of all criteria grades (CG) and `N` is the total coun
 
 &nbsp;&nbsp;&nbsp; The last step is just to sort offer grades in descending order and the top offer will be the first on the list.
 
-
-## Excel Example
-
 &nbsp;&nbsp;&nbsp; A simple example table with formulas can be found [here](https://docs.google.com/spreadsheets/d/1FxxJnf5xfQh8zEDunn90jcqkF2UM8rv2e9bo47EbXLQ/edit?usp=sharing).
-Just make a copy of the sheet, fill your criteria values and importance,
- and it will do the calculations.
- 
 
 ## Conclusion
 
