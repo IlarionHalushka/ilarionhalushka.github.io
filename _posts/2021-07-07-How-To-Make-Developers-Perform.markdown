@@ -15,6 +15,8 @@ keywords:
 tags: career, performance, management
 ---
 
+{% include lazyload.html image_src="/assets/images/donkey-carrot.png" image_alt="Ilarion Halushka blog Donkey Carrot" image_title="Ilarion Halushka blog Donkey Carrot" %}
+
 * Make them commit.
 * Ask “when”, “why”.
 * Load them with many tasks.
