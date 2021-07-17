@@ -2,10 +2,10 @@
 layout: post
 title: How To Make Developers Perform.
 date: 2021-07-07
-image: /assets/images/donkey-carrot.png
 description: |
     A parrot learned to say "when will it be done?" and was promoted to a manager.
 author: Ilarion Halushka
+image: /assets/images/donkey-carrot.png
 keywords:
     - career
     - performance
@@ -40,7 +40,7 @@ Maybe those perfect ~~slaves~~ employees who need control, will perform better w
 * Make them set estimates.
 * Make them feel heroes who are saving the world.
 * Set as many and as tight deadlines as possible.
-* Find an exemplary employee and mention him as an example.
+* Find an exemplary employee/team and mention him as an example.
 * Mention that users are struggling and waiting for the feature/fix asap.
 
 
