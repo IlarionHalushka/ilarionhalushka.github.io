@@ -5,7 +5,9 @@ date: 2021-07-07
 description: |
     A parrot learned to say "when will it be done?" and was promoted to a manager.
 author: Ilarion Halushka
+
 image: /assets/images/donkey-carrot.png
+
 keywords:
     - career
     - performance
@@ -13,21 +15,6 @@ keywords:
 tags: career, performance, management
 ---
 
-## I Am Not A Manager.
-&nbsp;&nbsp;&nbsp; I have not read any books about managing people and
-tuning the performance of the team up. I have never been a manager (mentorship and leadership initiatives don't count).
-
-&nbsp;&nbsp;&nbsp; The following bullet points are based on the observations throughout my career.
-I feel like most of the managers read the same books/articles/courses and have the same methods.
-
-## Perform Or Demotivate?
-&nbsp;&nbsp;&nbsp; Some points from below really help me perform better,
-but most of them are really demotivating. Be careful when introducing some techniques to not demotivate the team.
-
-&nbsp;&nbsp;&nbsp; I love freedom and less management standing over my shoulders.
-Maybe those perfect ~~slaves~~ employees who need control, will perform better when you arrange every point from below.
-
-## How To Make Developers Perform.
 * Make them commit.
 * Ask “when”, “why”.
 * Load them with many tasks.
@@ -51,3 +38,17 @@ Maybe those perfect ~~slaves~~ employees who need control, will perform better w
 * Setup software for tracking how many lines of code and tasks they completed.
 
 **A parrot learned to say "when will it be done?" and was promoted to a manager.**
+
+## I Am Not A Manager.
+&nbsp;&nbsp;&nbsp; I have not read any books about managing people and
+tuning the performance of the team up. I have never been a manager (mentorship and leadership initiatives don't count).
+
+&nbsp;&nbsp;&nbsp; The following bullet points are based on the observations throughout my career.
+I feel like most of the managers read the same books/articles/courses and have the same methods.
+
+## Perform Or Demotivate?
+&nbsp;&nbsp;&nbsp; Some points from below really help me perform better,
+but most of them are really demotivating. Be careful when introducing some techniques to not demotivate the team.
+
+&nbsp;&nbsp;&nbsp; I love freedom and less management standing over my shoulders.
+Maybe those perfect ~~slaves~~ employees who need control, will perform better when you arrange every point from below.
