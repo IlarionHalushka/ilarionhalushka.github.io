@@ -30,6 +30,7 @@ Time have changed, instincts not.
 * Buy table soccer, tennis, VR, playstation.
 * Supply their kids with presents on a birthday/christmas.
 * Arrange team buildings to make them friends with each other.
+* Introduce cultural clubs where employees can discuss their hobbies, share achievements.
 
 ## Be A Doctor.
 * Provide medical insurance.
@@ -37,6 +38,9 @@ Time have changed, instincts not.
 
 ## Be An Accountant.
 * Take care of their taxes and documents.
+
+## Be A Psychologist.
+* Arrange one-on-ones to let them share their concerns, they want to be heard.
 
 ## Be A Stylist.
 * Dress them: hoodie, t-shirts, backpack, socks.
