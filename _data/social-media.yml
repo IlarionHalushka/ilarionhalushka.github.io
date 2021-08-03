@@ -16,11 +16,11 @@ stackoverflow:
   title: 'Stackoverflow'
   fa-icon: 'fa-stack-overflow'
 
-facebook:
-  id: 'ilarion.halushka'
-  href: 'https://www.facebook.com/'
-  title: 'Facebook'
-  fa-icon: 'fa-facebook-square'
+#facebook:
+#  id: 'ilarion.halushka'
+#  href: 'https://www.facebook.com/'
+#  title: 'Facebook'
+#  fa-icon: 'fa-facebook-square'
 
 instagram:
   id: 'h.i.l.a.r.i.o.n'
