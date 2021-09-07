@@ -28,4 +28,10 @@ instagram:
   title: 'Instagram'
   fa-icon: 'fa-instagram'
 
+apple:
+  id: 'ilarion-halushka/id1561543170'
+  href: 'https://apps.apple.com/by/developer/'
+  title: 'App Store'
+  fa-icon: 'fa-apple'
+
 
