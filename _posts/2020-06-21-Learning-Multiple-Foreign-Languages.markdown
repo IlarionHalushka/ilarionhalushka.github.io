@@ -14,7 +14,7 @@ keywords:
     - Learning Foreign Languages
     - Learning English
     - Learning German
-tags: languages, self-development, english
+tags: languages, self-development, english, german
 ---
 
 &nbsp;&nbsp;&nbsp; Many people find it unusual when someone speaks multiple languages. 
@@ -25,23 +25,23 @@ It also opens doors to new opportunities and gives you many advantages in life.
 
 ## When someone asks me "How did you learn...?"
 
-— How did you learn two foreign languages?
+— **How did you learn two foreign languages?**
 
 — Well, please name 10 possible ways how one can learn a language.
 
 — Ok.
- * Sign up for a course.
- * Learn at school(university).
- * Hire a tutor.
- * Watch movies
- * Read books.
- * Youtube courses.
- * Educational mobile apps.
- * Talking with native speakers.
- * Listening to music.
- * Surround yourself with target language: translate a phone, PC, etc.
- * Take notes.
- * Create a dictionary.
+ * Sign up for a **course**.
+ * Learn at **school(university)**.
+ * Hire a **tutor**.
+ * Watch **movies/series**.
+ * Read **books**.
+ * **Youtube courses**.
+ * Educational **mobile apps**.
+ * Talking to **native speakers**.
+ * Listening to **music**.
+ * Surround yourself with target language: change **language of your phone, PC, etc**.
+ * Take **notes**.
+ * Create a **dictionary**.
 
 — Yes!
 
@@ -69,7 +69,7 @@ The process of learning is absolutely same for adults.
 * translate your phone, PC.
 * listen to music.
 * watch series.
-* google using target language.
+* search in google using target language.
 * read articles.
 * if you are a fan of social media - subscribe to foreign influencers.
 * if you are a fan of video games - join foreign teams.
