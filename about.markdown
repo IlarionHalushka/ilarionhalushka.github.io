@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi! I’m Ilarion Halushka.
 
-<ul> 
+<ul>
  <li>Software Engineer at <a target="_blank" href="https://corp.castingnetworks.com/">Casting Networks</a>.</li>
  <li>Creator of <a target="_blank" href="https://apps.apple.com/by/app/%D0%B7%D0%BD%D0%BE-%D0%BD%D0%B0-%D1%96%D0%B7%D1%96/id1578565229">ZNO na izi</a> app, which helps pupils prepare for exams.</li>
  <li><a target="_blank" href="https://github.com/IlarionHalushka">Write</a> in JavaScript and Typescript.</li>

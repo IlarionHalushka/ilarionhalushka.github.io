@@ -44,6 +44,7 @@ tags: career, maths, offer
 * **Time tracker (screen recording)**: yes/no
 * **Laptop/tools**: yes/no
 * **Contract duration**: no obligations/ 1 year/2 years
+* **Team average age**: 10 years younger/your age/10 years older
 
 ## IT Specific Criteria to Consider
 
