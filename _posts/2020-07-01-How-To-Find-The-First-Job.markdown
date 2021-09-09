@@ -19,7 +19,7 @@ keywords:
     - Finding job for Junior Developer
     - First workplace
     - Best way to find a job
-tags: job, career, resume, cv, vacancies
+tags: job, career, resume, cv, vacancies, first job
 ---
 
 {% include lazyload.html image_src="/assets/images/please-hire-me.png" image_alt="Github Hire Me commit progress squares" image_title="Github Hire Me commit progress squares" %}
@@ -39,18 +39,17 @@ tags: job, career, resume, cv, vacancies
 * telegram channels
 * placing CV on dedicated websites
 
-
 ## Sending CV
 
 &nbsp;&nbsp;&nbsp; Sure you can just send your CV using the web form, 
-but I think it makes sense to spend a couple of minutes and find company's email like
-"jobs@foo.bar" which usually can be found in Careers section on websites.
+but I think it makes sense to spend a couple of minutes and **find company's email** like
+"jobs@foo.bar" or "hr@foo.bar" which usually can be found in 'Careers' section on websites.
 
-&nbsp;&nbsp;&nbsp; I would first send via website and if no reply for a week then
-send a letter to "jobs@foo.bar".
+&nbsp;&nbsp;&nbsp; I would first **send via website** and if no reply for a few days then
+send a reminder **letter to "jobs@foo.bar"**.
 
-&nbsp;&nbsp;&nbsp; Another useful was is to get in touch with recruiters directly 
-on linkedin and send your resume there. 
+&nbsp;&nbsp;&nbsp; Another useful way is to get in touch with recruiters **directly 
+on linkedin** and send your resume there. 
 Some may find it obsessive but that's what linkedin is made for.
 Recruiters don't hesitate to get in touch with candidates on linkedin so neither should you.
 
@@ -69,7 +68,8 @@ Recruiters don't hesitate to get in touch with candidates on linkedin so neither
 ```
 Dear Sir/Madam,
     My name is Ilarion Halushka and I am a Software Engineer
-with 4 years of experience with primary focus of JavaScript/TypeScript.
+with 4 years of experience with primary focus of JavaScript/TypeScript. 
+I have experience of working on health-care projects and developing mobile apps.
     I reviewed the requirements and my skills match most of them
 except of Scala and C# languages.
     Hopefully, this won't be a problem as I am a fast learner and 
@@ -80,10 +80,9 @@ Ilarion Halushka
 Software Engineer
 ```
 
-
 ## Reminders
 
-&nbsp;&nbsp;&nbsp; Don't be afraid to ping the company representative
+&nbsp;&nbsp;&nbsp; Don't be afraid to **ping the company** representative
 after one week (may differ depending on location and company type) of silence.
 
 &nbsp;&nbsp;&nbsp; Just a simple polite letter would work:
@@ -94,21 +93,24 @@ Dear Sir/Madam,
     Hopefully you had a chance to review my CV and
  make a decision if you would like to move forward with me.
     I would really appreciate if you could share some feedback
-because I do think that I would be a good fir for this role.
-    Thank you for your time and have a noce day!
+because I do think that I would be a good fir for this role as my skills and experience match the requirements.
+    Thank you for your time and have a nice day! 
+    Please let me know if you don't want to hear from me again.
 Sincerely, 
 Vasyl Bybkin
 ```
 
-&nbsp;&nbsp;&nbsp; To tell you the truth, I stole this technique from recruiters
-who ping me on linkedin. Interesting fact is that I usually ignore their first messages
+&nbsp;&nbsp;&nbsp; To tell you the truth, **I stole this technique from recruiters
+who ping me on linkedin**. 
+
+&nbsp;&nbsp;&nbsp; Interesting fact is that **I usually ignore their first messages**
 if I am not interested. However, when they ping me multiple times telling something like: 
 "I reviewed your profile, and it looks like you would make a good fit for an open role..."
 Sometimes they even mention my previous experience or skills to make the message more personalized.
 This makes me reply them move often.
 
 &nbsp;&nbsp;&nbsp; You may think that you don't want to irritate anyone with your messages.
-But this way you remind about yourself and increase your chances of getting feedback.
+However, this way you remind about yourself and increase your chances of getting feedback.
 
 ## LinkedIn tips
 
@@ -130,12 +132,12 @@ After you are done with all the items above you can add a "looking for a job" po
 * **font type Times New Roman** or some other basic and easy to read
 * ask friends/peers/recruiters for **proofreading** 
 * mention **courses, certifications, personal projects, hackathons, conference speeches**
-* create **github account**
+* add **github account**
 
 ## Conclusion
 
 &nbsp;&nbsp;&nbsp; Every little detail is important in finding a job in these competitive times. 
-Even if it's a small typo in your CV it can decrease your chance of getting a job.
+Even if it's **a small typo** in your CV it can **decrease your chances** of getting a job.
 It may seem not significant at first, but many little things combine into the general evaluation of your candidacy.
 
 
