@@ -16,12 +16,13 @@ tags: job, career, students, courses
 &nbsp;&nbsp;&nbsp; In every school I studied I saw that it's a pleasure for a teacher to teach someone who is eager to learn. 
 Luckily my course was an act of volunteering, so I could filter out the students in order to avoid lazy ones.
 
-&nbsp;&nbsp;&nbsp; There were more than 5 people who wanted to study at my course,
+&nbsp;&nbsp;&nbsp; There were more than 5 people who wanted to study at my
+<a target="_blank" href="/Results-Of-My-IT-Courses">course</a>,
 and most did not complete the first task: 
 read "Testing Dot Com" book and note important terms.
 
 &nbsp;&nbsp;&nbsp; That was actually a test of how serious they were about studying. 
-Most never completed first task -> filtering worked :)
+Most never completed first task -->> filtering worked :)
 
 ## Study Approach
 
@@ -30,8 +31,10 @@ Most never completed first task -> filtering worked :)
 2. **Homework** - list of articles, books, podcasts related to current lection (5-25 hours).
 
 ## Topics Covered in Course
+&nbsp;&nbsp;&nbsp; List of skills I took mostly from my
+<a target="_blank" href="/vacancies-analysis-for-QA-Engineers">research</a>.
 
-Topic | Lecture time
+Topic/Skill | Lecture time
 --- | ---
 Client-server architecture | 2
 Development methodologies | 1
