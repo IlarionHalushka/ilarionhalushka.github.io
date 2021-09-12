@@ -39,7 +39,9 @@ but it took them longer to find a job.
 Definitely **luck always plays role** in
 <a target="_blank" href="/How-To-Find-The-First-Job">finding first job</a>.
 
-&nbsp;&nbsp;&nbsp; On average the course took around 1 month of full time studying (200-300 hours).
+&nbsp;&nbsp;&nbsp; On average the course took around 1 month of full time
+<a target="_blank" href="/What-And-How-I-Taught-At-My-IT-Courses">studying</a>
+(200-300 hours).
 
 Name | Time to study before applying | Time to first offer
 --- | --- | ---
