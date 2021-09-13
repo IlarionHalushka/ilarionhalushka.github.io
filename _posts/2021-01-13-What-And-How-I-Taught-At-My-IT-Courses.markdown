@@ -4,7 +4,7 @@ title: What and How I Taught at My IT Courses
 date: 2021-01-13
 description: |
   How I filtered out the students.
-  Structure, Study approach, Topics, Timing of My IT Courses
+  Structure, Study approach, Topics, Timing of My IT Courses.
 
 author: Ilarion Halushka
 keywords:
@@ -34,7 +34,7 @@ Most never completed first task -->> filtering worked :)
 &nbsp;&nbsp;&nbsp; List of skills I took mostly from my
 <a target="_blank" href="/vacancies-analysis-for-QA-Engineers">research</a>.
 
-Topic/Skill | Lecture time
+Topic/Skill | Lecture time (hours)
 --- | ---
 Client-server architecture | 2
 Development methodologies | 1
@@ -64,8 +64,8 @@ TOTAL: *~300 hours* to complete whole course and get ready for first interview:
 
 ## Helping Find a Job
 
-&nbsp;&nbsp;&nbsp; I shared some tips and advices in another article:
-<a target="_blank" href="/How-To-Find-The-First-Job">How To Find The First Job.</a>.
+&nbsp;&nbsp;&nbsp; Tips and advices on how to find the first job you can find:
+<a target="_blank" href="/How-To-Find-The-First-Job">here</a>.
 
 
 
