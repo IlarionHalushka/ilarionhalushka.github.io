@@ -23,7 +23,7 @@ As professional sales managers do - I will start from pros, and then follow with
 
 ## Pros
 * Expanding comfort zone.
-* Learning/improving **language**.
+* Learning/improving **<a target="_blank" href="/Learning-Multiple-Foreign-Languages">language</a>**.
 * Improving **quality of life**.
 * Getting more money (questionable, because also spending more).
 * Meeting **new people**.
@@ -46,8 +46,7 @@ As professional sales managers do - I will start from pros, and then follow with
 * Lose of stability.
 * Risk of visa rejections, rejection of extending visa.
 * Convincing yourself that you like it there more than at home.
-* Learning new skill of assimilation into new culture, pretending you are one of “them”.
-
+* Learning new skill of assimilation into new culture, **pretending you are one of “them”**.
 
 &nbsp;&nbsp;&nbsp;  Spouse and children will also suffer from integration into the new world. 
   They will at least need to learn the language. 
