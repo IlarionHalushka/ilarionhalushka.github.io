@@ -17,7 +17,6 @@ keywords:
 tags: communication, developer, professionalism, skills
 ---
 
-## What I Hate Hearing From Other Developers
 * "I introduced breaking changes, let others fix that."
 * "My task broke because of them/him/her."
 * "I will try". You either do or do not do, there is no "try".
