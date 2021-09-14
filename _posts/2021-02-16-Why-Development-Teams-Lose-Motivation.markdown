@@ -15,11 +15,13 @@ tags: job, career, motivation, team
 ---
 
 #### We all lose motivation
-&nbsp;&nbsp;&nbsp; Level of motivation is never a constant value. It is an always changing value which
-depends on numerous factors which I tried to gather in this article.
+&nbsp;&nbsp;&nbsp; Level of motivation is never a constant value. It is an **always changing value which
+depends on numerous factors** which I tried to gather in this article.
 
 &nbsp;&nbsp;&nbsp; I do accept that there are times when my level of motivation goes tremendously down. 
 Most of the factors below I have experienced myself or have seen in teams that I worked with.
+
+&nbsp;&nbsp;&nbsp; See a related article about <a target="_blank" href="/How-Companies-Build-Trust-With-Employees">motivating employees</a>.
 
 #### Processes in company
 * daily chores instead of automated process.
@@ -49,7 +51,7 @@ Most of the factors below I have experienced myself or have seen in teams that I
 * items above lead to - always breaking somewhere where you didn't expect it to break.
 
 #### Finances
-* salary below market value.
+* <a target="_blank" href="/Salary-Review-Tips">salary</a> below market value.
 * no performance reviews.
 * unclear performance review criteria.
 * no compensation for meeting deadline or going extra mile.
@@ -57,7 +59,7 @@ Most of the factors below I have experienced myself or have seen in teams that I
 #### Professional growth
 * same repetitive routine tasks.
 * boring features that make no sense.
-* unprofessional team.
+* <a target="_blank" href="/What-I-Hate-Hearing-From-Other-Developers">unprofessional team</a>.
 * no one else strives for better code quality.
 * never ending bug fixing instead of development of new features.
 * supporting system instead of developing.
@@ -67,14 +69,14 @@ Most of the factors below I have experienced myself or have seen in teams that I
 * health problems.
 * no vacation.
 * became insolent/arrogant (usually happens with Senior developers).
+* <a target="_blank" href="/How-To-Avoid-Burn-Out-At-Work">burn out</a>.
 * no reason to finish on time or work extra mile because salary is same
   on months when you work 200 hours and when 100.
+
 * no feedback about impact of feature.
 * doesn't feel like software has any purpose.
 * fear of losing job.
 * have no positive feedback from peers.
 * company cares more about hours spent in front of screen, than about delivery of results.
-* burn out.
-
   
 
