@@ -15,6 +15,10 @@ tags: books, javascript, node.js
  
 If I had to read these books again I would start from top and go down one by one.
 
+Check out list of
+<a target="_blank" href="/List-Of-Skills-Of-Node-JS-Developer">Skills of JavaScript Developer</a> and
+<a target="_blank" href="/Soft-Skills-of-Senior-Developer">Soft Skills of Senior Developer</a>.
+
 ## Beginners:
 * Head First JavaScript
 * Eloquent Javascript
@@ -31,7 +35,7 @@ If I had to read these books again I would start from top and go down one by one
 * Nodejs in Action
 * Cracking the Coding Interview
 
-## My plans to read in 2021:
+## My plans to read in 2021-2022:
 * The Clean Coder
 * You don’t know JS (6 books)
 * Building Event Driven Microservices (O'Reilly)
