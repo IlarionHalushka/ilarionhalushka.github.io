@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Posts:
+### List of articles
 <ul class="posts-list">
   {% for post in site.posts %}
     <li>
