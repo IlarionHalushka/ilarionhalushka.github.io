@@ -3,10 +3,10 @@ layout: post
 title: How To Choose Between Multiple Job Offers.
 date: 2020-06-12
 description: |
-  Scientific way for choosing best job offer. 
+  Scientific way of choosing the best job offer. 
+  Which criteria you should consider when choosing a job offer? 
+  What to do when you are not sure which job offer is the best? 
   Applying Decision Theory to the problem of choosing the best job offer.
-  What to do when you are not sure which job offer is the best.
-  Which criteria you should consider when choosing a job offer.
 
 image: /assets/images/how-to-choose-between-multiple-job-offers-table.png
 
