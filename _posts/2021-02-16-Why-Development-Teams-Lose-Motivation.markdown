@@ -3,7 +3,7 @@ layout: post
 title: Why Development Teams Lose Motivation
 date: 2021-02-16
 description: |
-  List of reasons why developers lose motivation split by categories.
+  List of reasons why developers lose motivation.
 
 author: Ilarion Halushka
 keywords:
@@ -32,10 +32,12 @@ Most of the factors below I have experienced myself or have seen in teams that I
 * no one listens to opinions of developer.
 * frequent switch of context (tasks).
 
+{% include lazyload.html image_src="/assets/images/sometimes-life-makes-you-stop-a-project-to-start-another.png" image_alt="Change of context" image_title="Change of context" %}
+
 #### Management
 * micro management.
 * [seagull management](https://en.wikipedia.org/wiki/Seagull_management).
-* unclear hierarchy - no one knows who is responsible for what.
+* unclear hierarchy and responsibilities - no one knows who is responsible for what.
 
 #### Schedule
 * rigid schedule.
@@ -48,13 +50,14 @@ Most of the factors below I have experienced myself or have seen in teams that I
 * poorly written code.
 * poor architecture.
 * no tests.
-* items above lead to - always breaking somewhere where you didn't expect it to break.
+
+Items above lead to always breaking something what you didn't expect to break :(
 
 #### Finances
 * <a target="_blank" href="/Salary-Review-Tips">salary</a> below market value.
-* no performance reviews.
+* no performance/salary reviews.
 * unclear performance review criteria.
-* no compensation for meeting deadline or going extra mile.
+* no compensation for meeting deadline or going extra mile (overtimes).
 
 #### Professional growth
 * same repetitive routine tasks.
@@ -74,7 +77,7 @@ Most of the factors below I have experienced myself or have seen in teams that I
   on months when you work 200 hours and when 100.
 
 * no feedback about impact of feature.
-* doesn't feel like software has any purpose.
+* doesn't feel like software has any purpose/impact/value.
 * fear of losing job.
 * have no positive feedback from peers.
 * company cares more about hours spent in front of screen, than about delivery of results.
