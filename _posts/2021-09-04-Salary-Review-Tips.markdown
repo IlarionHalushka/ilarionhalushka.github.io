@@ -19,6 +19,8 @@ keywords:
 tags: job, career, performance review, salary, salary review
 ---
 
+{% include lazyload.html image_src="/assets/images/abba-money-money-money.gif" image_alt="After Salary Review" image_title="After Salary Review" %}
+
 ## When to ask for review?
 &nbsp;&nbsp;&nbsp; **On a sunny day** when your boss and company feel good, you just accomplished some goal -
 finished a business critical task or delivered a project.

@@ -19,7 +19,7 @@ keywords:
 tags: career, maths, offer
 ---
 
-{% include lazyload.html image_src="/assets/images/how-to-choose-between-multiple-job-offers-table.png" image_alt="Example of comparing two Job Offers based on multiple criteria." image_title="Example of comparing two Job Offers based on multiple criteria." %}
+{% include lazyload.html image_src="/assets/images/make-him-offer-he-cant-refuse.gif" image_alt="Recruiter When Making An Offer" image_title="Recruiter When Making An Offer" %}
 
 ## General Criteria to Consider
 
