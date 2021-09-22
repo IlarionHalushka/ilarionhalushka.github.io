@@ -14,6 +14,8 @@ keywords:
 tags: offer, career, test-task
 ---
 
+{% include lazyload.html image_src="/assets/images/time-waste.gif" image_alt="Time waste" image_title="Time Waste" %}
+
 &nbsp;&nbsp;&nbsp;  Why do companies think that I have time to complete a test task?
 What if I am considering 10 different companies and all of them ask to do a test task in addition to multiple rounds of interviews?
 

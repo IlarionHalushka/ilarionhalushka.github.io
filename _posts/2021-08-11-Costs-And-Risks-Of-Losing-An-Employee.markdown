@@ -11,6 +11,8 @@ keywords:
 tags: career, management
 ---
 
+{% include lazyload.html image_src="/assets/images/boy-counting-screaming.gif" image_alt="Boy Shocked" image_title="Boy Shocked" %}
+
 ## Costs.
 * **Finding replacement may take from 1 to 12 months**, depending on seniority and job market.
 * **Time of engineers/managers on interviewing** new candidates.
