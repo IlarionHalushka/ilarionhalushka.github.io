@@ -13,7 +13,9 @@ tags: career
 ## We All Want To Belong To A Group.
 &nbsp;&nbsp;&nbsp; All human beings have the need of feeling needed, feeling of belonging to a group/society. 
 Obviously, that comes from old times when people gathered in tribes in order to survive together.
-Time have changed, instincts not.
+Times have changed, instincts not.
+
+{% include lazyload.html image_src="/assets/images/penguins-hugging.gif" image_alt="Penguins Hugging" image_title="Penguins Hugging" %}
 
 ## Be A Parent.
 * Feed your employees.

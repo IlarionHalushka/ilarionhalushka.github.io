@@ -12,6 +12,8 @@ keywords:
 tags: career, offer
 ---
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/UocEGvQ10OE?start=185" frameborder="0" allowfullscreen></iframe>
+
 ## Reasons Of Not Accepting Counter Offer.
 
 * Probably, **compensation is not the only reason** why you decided to consider other companies.
