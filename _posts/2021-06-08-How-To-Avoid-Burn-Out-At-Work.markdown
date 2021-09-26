@@ -15,6 +15,8 @@ keywords:
 tags: burn out, career, work, life
 ---
 
+{% include lazyload.html image_src="/assets/images/burn-out-you-underestimate-my-power.gif" image_alt="Burn Out" image_title="Burn Out" %}
+
 ## Burn Out is a Lie?
 &nbsp;&nbsp;&nbsp; I believe there is no such thing as burn out.
 * If you do things that you don’t love, sad news - you are already burned :(**
