@@ -12,7 +12,9 @@ keywords:
 tags: career, offer
 ---
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/UocEGvQ10OE?start=185" frameborder="0" allowfullscreen></iframe>
+[comment]: <> (<iframe width="420" height="315" src="http://www.youtube.com/embed/UocEGvQ10OE?start=185" frameborder="0" allowfullscreen></iframe>)
+
+{% include lazyload.html image_width="75%" image_height="75%" image_src="/assets/images/not-loyal-guy.jpeg" image_alt="Not Loyal Guy" image_title="Not Loyal Guy" %}
 
 ## Reasons Of Not Accepting Counter Offer.
 
