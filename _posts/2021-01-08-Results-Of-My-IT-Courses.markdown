@@ -15,6 +15,8 @@ keywords:
 tags: job, career, students, courses
 ---
 
+{% include lazyload.html image_src="/assets/images/teacher-at-courses.webp" image_alt="Teacher at courses" image_title="Teacher at courses" %}
+
 ## Background of ~~friends~~ students.
 
 &nbsp;&nbsp;&nbsp; 3 of 5 were not familial with IT at all. The rest 2 studied some basics at universities.
