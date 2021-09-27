@@ -17,6 +17,8 @@ keywords:
 tags: communication, developer, professionalism, skills
 ---
 
+{% include lazyload.html image_src="/assets/images/say-what-again.webp" image_alt="Say What Again" image_title="Say What Again" %}
+
 * "I introduced breaking changes, let others fix that."
 * "My task broke because of them/him/her."
 * "I will try". You either do or do not do, there is no "try".
