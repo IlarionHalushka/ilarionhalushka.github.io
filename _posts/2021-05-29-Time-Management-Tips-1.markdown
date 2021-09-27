@@ -17,6 +17,8 @@ keywords:
 tags: goals, time management, productivity
 ---
 
+{% include lazyload.html image_src="/assets/images/time-man.webp" image_alt="Time Man" image_title="Time Man" %}
+
 ## Ask yourself questions
 * **"Does this activity bring me closer to my goal?"**
 * **"Can I delegate this task to someone?"**
