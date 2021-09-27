@@ -24,7 +24,7 @@ Hi! I’m Ilarion Halushka.
 Feel free to connect and contact me on  <a target="_blank" href="https://www.linkedin.com/in/ilarion-halushka-6a31a5173">LinkedIn <i class="fa fa-1x fa-linkedin-square"></i></a>.
 
 Check out my <a target="_blank" href="https://drive.google.com/drive/folders/1wUBlBntdIpNfXWWHBD_iDqvBcCLNkzXM?usp=sharing)">resume</a>
-and <a target="_blank" href="https://www.instagram.com/h.i.l.a.r.i.o.n/">instagram <i class="fa fa-1x fa-instagram"></i></a> ;)
+and <a target="_blank" href="https://www.instagram.com/h.i.l.a.r.i.o.n/">instagram <i class="fa fa-1x fa-instagram"></i></a>.
 
 
 <a target="_blank" href="https://stackoverflow.com/users/9110955/ilarion-halushka">
