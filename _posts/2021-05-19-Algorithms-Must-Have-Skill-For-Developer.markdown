@@ -16,6 +16,8 @@ keywords:
 tags: algorithms, development, skills, professional
 ---
 
+{% include lazyload.html image_src="/assets/images/matrix-fight.webp" image_alt="Matrix Fight" image_title="Matrix Fight" %}
+
 ## My Efforts.
 &nbsp;&nbsp;&nbsp; I solved around 300 easy/medium algorithmic problems. 
 For history, I pushed all solutions to [github](https://github.com/IlarionHalushka/leetcode-algorithms/tree/master/src/tasks/algorithms).
