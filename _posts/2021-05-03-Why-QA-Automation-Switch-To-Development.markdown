@@ -16,6 +16,8 @@ keywords:
 tags: qa, automation, growth, development, switchers
 ---
 
+{% include lazyload.html image_width="25%" image_height="25%" image_src="/assets/images/captain-jack-ship-switch.gif" image_alt="Ship Switch" image_title="Ship Switch" %}
+
 ## Intro.
 &nbsp;&nbsp;&nbsp;  I went through the path of QA Manual -> QA Automation -> Developer.
 In this article I want to share my thoughts of pros and cons of switching to development.
