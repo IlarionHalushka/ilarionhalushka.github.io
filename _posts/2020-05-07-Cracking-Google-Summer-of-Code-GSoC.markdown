@@ -20,6 +20,8 @@ keywords:
 tags: career, GSoC, open-source
 ---
 
+{% include lazyload.html image_src="/assets/images/google-summer-of-code-gsoc-ilarion-halushka-certificate.png" image_alt="Ilarion Halushka Certificate google summer of code gsoc" image_title="Ilarion Halushka Certificate google summer of code gsoc" %}
+
 ## 0. You should participate in GSoC to:
 
 #### Improve coding skills.
@@ -45,8 +47,6 @@ As google says: `Flip bytes, not burgers.`
 * Catchy line on <a target="_blank" href="https://www.linkedin.com/in/ilarion-halushka-6a31a5173">LinkedIn</a>. 
 * <a target="_blank" href="https://gist.github.com/IlarionHalushka/5d2fd5a74aaffad426c81253e8dd5c65#completion-verification-letter">Completion Verification Letter</a>.
 * Certificate.
-
-{% include lazyload.html image_src="/assets/images/google-summer-of-code-gsoc-ilarion-halushka-certificate.png" image_alt="Ilarion Halushka Certificate google summer of code gsoc" image_title="Ilarion Halushka Certificate google summer of code gsoc" %}
 
 ## 1. Important Program Terms.
 
