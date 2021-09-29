@@ -16,6 +16,8 @@ keywords:
 tags: job, career, relocation, relocating
 ---
 
+{% include lazyload.html image_width="50%" image_height="50%" image_src="/assets/images/pig-tractor.jpeg" image_alt="Pig Tractor" image_title="Pig Tractor" %}
+
 ## Personal Experience of Relocating
 &nbsp;&nbsp;&nbsp; I have lived and worked in two foreign countries for 4 and 3 months. 
 Now I would like to share my own view on relocation. 
