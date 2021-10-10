@@ -12,6 +12,8 @@ keywords:
 tags: job, career, students, courses
 ---
 
+{% include lazyload.html image_src="/assets/images/we-dont-need-no-education.jpeg" image_alt="We don't need no education" image_title="We don't need no education" %}
+
 ## Filtering out the Students
 &nbsp;&nbsp;&nbsp; In every school I studied I saw that it's a pleasure for a teacher to teach someone who is eager to learn. 
 Luckily my course was an act of volunteering, so I could filter out the students in order to avoid lazy ones.
