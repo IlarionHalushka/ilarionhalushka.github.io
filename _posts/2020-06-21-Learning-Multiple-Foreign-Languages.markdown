@@ -17,6 +17,8 @@ keywords:
 tags: languages, self-development, english, german
 ---
 
+{% include lazyload.html image_src="/assets/images/hello-in-different-languages-pronunciation.jpeg" image_alt="Hello translated" image_title="Hello translated" %}
+
 &nbsp;&nbsp;&nbsp; Many people find it unusual when someone speaks multiple languages. 
 In my case it's 4 languages: 2 native - Ukrainian, Russian, and 2 foreign - English, German.
 

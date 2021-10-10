@@ -12,7 +12,9 @@ keywords:
     - must have to read for javascript developer
 tags: books, javascript, node.js
 ---
- 
+
+{% include lazyload.html image_src="/assets/images/books.jpeg" image_alt="Book to read" image_title="Books to read" %}
+
 If I had to read these books again I would start from top and go down one by one.
 
 Check out list of
