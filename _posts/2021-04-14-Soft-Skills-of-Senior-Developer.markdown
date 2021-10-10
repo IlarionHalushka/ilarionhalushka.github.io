@@ -14,6 +14,8 @@ keywords:
 tags: career, soft skills, senior
 ---
 
+{% include lazyload.html image_src="/assets/images/being-developer-is-not-stressful.png" image_alt="Being developer is not stressful" image_title="Being developer is not stressful" %}
+
 `Soft skills - personal attributes that enable someone to interact effectively and harmoniously with other people.`
 ([oxford dictionary](http://www.oxforddictionaries.com/definition/english/soft-skills))
 
