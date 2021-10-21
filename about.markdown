@@ -18,8 +18,9 @@ Hi! I’m Ilarion Halushka.
  <li>Open source contributor to <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
  <li>Organized Computer Sciences <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">courses</a>.</li>
  <li>Winner of hackathon <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
- <li>Speak English, Ukrainian, Russian, German.</li>
+ <li>Speak <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">English, German</a>, Ukrainian, Russian.</li>
 </ul>
+
 
 Feel free to connect and contact me on  <a target="_blank" href="https://www.linkedin.com/in/ilarion-halushka-6a31a5173">LinkedIn <i class="fa fa-1x fa-linkedin-square"></i></a>.
 
