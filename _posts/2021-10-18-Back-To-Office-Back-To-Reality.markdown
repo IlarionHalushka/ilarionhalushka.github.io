@@ -23,6 +23,9 @@ When from the office, you might feel like you are working, but in fact not showi
 actually working from home and from the office.
 Personally for me it's on **average 1 hour more work when from home** :thinking-face:
 
+&nbsp;&nbsp;&nbsp; Fun fact: I heard that some companies make employees go to the office
+to prevent them from working two full-time jobs :)
+
 ## Pros
 
 #### Professional
