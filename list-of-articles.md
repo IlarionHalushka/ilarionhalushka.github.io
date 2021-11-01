@@ -68,11 +68,12 @@ SEO +++
 Optimisations +++
 Image lazy loading +++
 Ability to share post in social networks+++
-Add suggestions what to read next
-Think of creative images for articles
+Think of creative images for articles +++
 Add menu +++
+Add section in menu `best 10 articles` +++
+
 Add tags
-Add section in menu `best 10 articles`
+Add suggestions what to read next
 Add articles filtering by tags
 Add to articles “5 mins read”
 Pagination

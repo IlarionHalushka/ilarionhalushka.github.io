@@ -12,7 +12,7 @@ keywords:
 tags: job, career, students, courses
 ---
 
-{% include lazyload.html image_src="/assets/images/we-dont-need-no-education.jpeg" image_alt="We don't need no education" image_title="We don't need no education" %}
+{% include lazyload.html image_width="75%" image_height="75%" image_src="/assets/images/we-dont-need-no-education.jpeg" image_alt="We don't need no education" image_title="We don't need no education" %}
 
 ## Filtering out the Students
 &nbsp;&nbsp;&nbsp; In every school I studied I saw that it's a pleasure for a teacher to teach someone who is eager to learn. 
