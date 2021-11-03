@@ -72,10 +72,9 @@ Think of creative images for articles +++
 Add menu +++
 Add section in menu `best 10 articles` +++
 
-Add tags
 Add suggestions what to read next
+Add tags
 Add articles filtering by tags
-Add to articles “5 mins read”
 Pagination
 Language
 
