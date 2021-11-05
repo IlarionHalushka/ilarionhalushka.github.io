@@ -17,6 +17,7 @@ keywords:
     - Applying Maths in real life problems
     - Criteria for choosing a job
 tags: career, maths, offer, best
+next_posts: [Salary-Review-Tips, Do-Not-Ever-Accept-Counter-Offer]
 ---
 
 {% include lazyload.html image_src="/assets/images/make-him-offer-he-cant-refuse.gif" image_alt="Recruiter When Making An Offer" image_title="Recruiter When Making An Offer" %}
