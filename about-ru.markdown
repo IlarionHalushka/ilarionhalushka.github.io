@@ -6,6 +6,8 @@ permalink: /about/ru
 
 <button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Назад к списку статей</button>
 
+<h1 itemprop="name">{{ page.title }}</h1>
+
 <img align="right" src="/assets/images/about-me-my-photo.jpg" alt="Ilarion Halushka" width="135" height="178"/>
 
 Привет, меня зовут Илларион Галушка.
@@ -38,6 +40,5 @@ permalink: /about/ru
   />
 </a>
 
-<button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Назад к списку статей</button>
 
 

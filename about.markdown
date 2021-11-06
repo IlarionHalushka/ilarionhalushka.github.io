@@ -6,6 +6,8 @@ permalink: /about/
 
 <button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Back to the list of articles</button>
 
+<h1 itemprop="name">{{ page.title }}</h1>
+
 <img align="right" src="/assets/images/about-me-my-photo.jpg" alt="Ilarion Halushka" width="135" height="178"/>
 
 Hi! I’m Ilarion Halushka.
@@ -37,5 +39,3 @@ and <a target="_blank" href="https://www.instagram.com/h.i.l.a.r.i.o.n/">instagr
    title="profile for Ilarion Halushka at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
   />
 </a>
-
-<button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Back to the list of articles</button>

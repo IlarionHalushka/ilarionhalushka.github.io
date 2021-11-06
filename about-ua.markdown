@@ -6,6 +6,8 @@ permalink: /about/ua
 
 <button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Назад до переліку статей</button>
 
+<h1 itemprop="name">{{ page.title }}</h1>
+
 <img align="right" src="/assets/images/about-me-my-photo.jpg" alt="Ilarion Halushka" width="135" height="178"/>
 
 Привіт, мене звати Іларіон Галушка.
@@ -38,5 +40,4 @@ permalink: /about/ua
   />
 </a>
 
-<button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Назад до переліку статей</button>
 
