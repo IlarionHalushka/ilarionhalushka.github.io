@@ -4,7 +4,7 @@ title: Про автора
 permalink: /about/ua
 ---
 
-<button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Назад до переліку статей</button>
+<button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Назад до переліку статей</button>
 
 <h1 itemprop="name">{{ page.title }}</h1>
 
