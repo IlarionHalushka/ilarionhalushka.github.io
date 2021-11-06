@@ -4,7 +4,7 @@ title: Про автора
 permalink: /about/ru
 ---
 
-<button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Назад к списку статей</button>
+<button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Назад к списку статей</button>
 
 <h1 itemprop="name">{{ page.title }}</h1>
 

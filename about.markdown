@@ -4,7 +4,7 @@ title: About author
 permalink: /about/
 ---
 
-<button class="back-to-articles-btn" onclick="location.href='{{ site.url }}'" type="button"><- Back to the list of articles</button>
+<button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Back to the list of articles</button>
 
 <h1 itemprop="name">{{ page.title }}</h1>
 
