@@ -50,9 +50,12 @@ layout: compress
 <div id="header_wrap" class="outer">
     <header class="inner">
         <nav class="main-nav">
-                {% for item in site.data.menus.header %}
-                    <a href="{{ item.url }}" {% if item.url == page.url %}class="active"{% endif %}>{{item.title}}</a>
-                {% endfor %}
+<!--                {% for item in site.data.menus.header %}-->
+<!--                    <a href="{{ item.url }}" {% if item.url == page.url %}class="active"{% endif %}>{{item.title}}</a>-->
+<!--                {% endfor %}-->
+            {% for item in site.data.menus.header %}
+                <button class="back-to-articles-btn" onclick="location.href='{{ item.url }}'" type="button">{{item.title}}</button>
+            {% endfor %}
         </nav>
 
         {% if site.github.is_project_page %}
