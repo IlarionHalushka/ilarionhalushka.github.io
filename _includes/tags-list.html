@@ -1,0 +1,8 @@
+{% assign tags_size = page.tags | size %}
+{% if tags_size != 0 %}
+    {% for tag in page.tags %}
+        <div class="tag">{{tag | remove:  ","}}</div>
+    {% endfor %}
+    <br/>
+    <br/>
+{% endif %}

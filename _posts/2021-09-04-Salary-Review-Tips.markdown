@@ -16,7 +16,7 @@ keywords:
     - performance review
     - salary
     - salary review
-tags: job, career, performance review, salary, salary review
+tags: job, career, performance review, salary
 ---
 
 {% include lazyload.html image_width="50%" image_height="50%" image_src="/assets/images/abba-money-money-money.gif" image_alt="After Salary Review" image_title="After Salary Review" %}
