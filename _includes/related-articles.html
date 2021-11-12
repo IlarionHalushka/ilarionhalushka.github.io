@@ -1,14 +1,14 @@
 {% assign next_posts_size = page.next_posts | size %}
 {% if next_posts_size != 0 %}
-<div>
-    <hr/>
-    <p>
-        Check out the <strong>related posts</strong>:
-        {% for title in page.next_posts %}
-            <li>
-                <a href="{{ site.baseurl }}/{{ title }}">{{title}}</a>
-            </li>
-        {% endfor %}
-    </p>
-</div>
+    <div>
+        <hr/>
+        <p>
+            Check out the <strong>related posts</strong>:
+            {% for title in page.next_posts %}
+                <li>
+                    <a href="{{ site.baseurl }}/{{ title }}">{{title}}</a>
+                </li>
+            {% endfor %}
+        </p>
+    </div>
 {% endif %}

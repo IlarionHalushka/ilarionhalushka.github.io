@@ -71,12 +71,16 @@ Ability to share post in social networks+++
 Think of creative images for articles +++
 Add menu +++
 Add section in menu `best 10 articles` +++
+Language - about me in UA/RU/EN +++
 
-Add suggestions what to read next
 Add tags
+Add suggestions what to read next
 Add articles filtering by tags
 Pagination
-Language
+
+Tags cloud
+https://dev.to/alvaromontoro/create-a-tag-cloud-with-html-and-css-1e90
+
 
 
 useful article for optimization:

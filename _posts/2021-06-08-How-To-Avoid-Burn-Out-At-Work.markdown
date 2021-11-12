@@ -12,7 +12,7 @@ keywords:
     - career
     - work
     - life
-tags: burn out, career, work, life
+tags: burn-out, career, work, life
 ---
 
 {% include lazyload.html image_src="/assets/images/burn-out-you-underestimate-my-power.gif" image_alt="Burn Out" image_title="Burn Out" %}

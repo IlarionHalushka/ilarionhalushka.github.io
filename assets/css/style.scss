@@ -169,3 +169,16 @@ html {
     background-image: linear-gradient(to right, $bgcolor, #0c69d7);
     margin: 0 25px 25px 0;
 }
+
+.tag {
+    float:left;
+    display:inline;
+    text-align: center;
+    transition: 0.5s;
+    color: white;
+    box-shadow: 0 0 3px #0F79D0;
+    border-radius: 7px;
+    background-image: linear-gradient(to right, $bgcolor, #0b4283);
+    padding: 3px 7px 3px 7px;
+    margin: 0 5px 15px 0;
+}

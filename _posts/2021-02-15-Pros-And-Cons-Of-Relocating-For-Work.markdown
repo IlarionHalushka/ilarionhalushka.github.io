@@ -13,7 +13,7 @@ keywords:
     - relocation
     - work relocation
     - pros and cons of relocating for work
-tags: job, career, relocation, relocating
+tags: job, career, relocation
 ---
 
 {% include lazyload.html image_width="50%" image_height="50%" image_src="/assets/images/pig-tractor.jpeg" image_alt="Pig Tractor" image_title="Pig Tractor" %}

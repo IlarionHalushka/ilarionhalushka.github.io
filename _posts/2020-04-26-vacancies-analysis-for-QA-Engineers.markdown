@@ -16,7 +16,7 @@ keywords:
     - career path
     - how to become senior qa
     - how to become middle qa
-tags: career
+tags: career, qa, tester
 ---
 
 {% include lazyload.html image_width="50%" image_height="50%" image_src="/assets/images/sponge-bob-multitask.gif" image_alt="All Skills" image_title="All Skills" %}

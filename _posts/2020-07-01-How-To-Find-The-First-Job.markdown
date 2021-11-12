@@ -19,7 +19,7 @@ keywords:
     - Finding job for Junior Developer
     - First workplace
     - Best way to find a job
-tags: job, career, resume, cv, vacancies, first job
+tags: job, career, resume, CV, vacancies, first_job
 ---
 
 {% include lazyload.html image_src="/assets/images/please-hire-me.png" image_alt="Github Hire Me commit progress squares" image_title="Github Hire Me commit progress squares" %}
