@@ -11,10 +11,10 @@ image: /assets/images/my-weekly-toggl-report.png
 
 author: Ilarion Halushka
 keywords:
-    - time management
+    - time-management
     - productivity
     - goals
-tags: goals, time management, productivity
+tags: goals, time-management, productivity
 ---
 
 {% include lazyload.html image_src="/assets/images/time-man.webp" image_alt="Time Man" image_title="Time Man" %}

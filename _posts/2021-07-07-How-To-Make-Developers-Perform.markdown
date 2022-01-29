@@ -3,7 +3,7 @@ layout: post
 title: How To Make Developers Perform.
 date: 2021-07-07
 description: |
-    A parrot learned to say "when will it be done?" and was promoted to a manager.
+    A parrot learned to say "when will it be done?" and was promoted to a manager. (real life joke)
 author: Ilarion Halushka
 
 image: /assets/images/donkey-carrot.png
