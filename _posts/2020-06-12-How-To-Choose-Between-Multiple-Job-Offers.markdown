@@ -46,6 +46,7 @@ next_posts: [Salary-Review-Tips, Do-Not-Ever-Accept-Counter-Offer]
 * **Laptop/tools**: yes/no
 * **Contract duration**: no obligations/ 1 year/2 years
 * **Team average age**: 10 years younger/your age/10 years older
+* **Management location**: at the same office as you / abroad 
 
 ## IT Specific Criteria to Consider
 
