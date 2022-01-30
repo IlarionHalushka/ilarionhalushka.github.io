@@ -16,6 +16,12 @@ stackoverflow:
   title: 'Stackoverflow'
   fa-icon: 'fa-stack-overflow'
 
+youtube:
+  id: 'UC-nnrcFlfveeW8iBRJe_XXQ'
+  href: 'https://www.youtube.com/channel/'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube-square'
+
 #facebook:
 #  id: 'ilarion.halushka'
 #  href: 'https://www.facebook.com/'
