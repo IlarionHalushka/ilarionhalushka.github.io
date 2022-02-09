@@ -61,6 +61,10 @@ html {
     color: blue;
 }
 
+#main_content {
+    padding-top: 0px;
+}
+
 .fa-stack-overflow.fa-3x {
     position: relative;
     top: -.2em;
@@ -156,6 +160,21 @@ html {
 }
 
 .back-to-articles-btn {
+    flex: 1 1 auto;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0 0 10px #0F79D0;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, $bgcolor, #0c69d7);
+    margin: 0 0 0 0;
+}
+
+.header-menu-btn {
     flex: 1 1 auto;
     padding: 20px;
     text-align: center;
