@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do Not Waste Your Time On Test Tasks.
+title: Do Not Waste Your Time On Test Tasks
 date: 2021-08-12
 description: |
     Why do companies think that I have time to complete a test task?

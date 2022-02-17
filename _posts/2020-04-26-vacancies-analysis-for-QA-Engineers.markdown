@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top skills every Software Tester (QA Engineer) should know.
+title: Top skills every Software Tester (QA Engineer) should know
 date: 2020-04-26
 description: |
   Software tester skills. Top skills for Software Tester. Top skills every Software Tester should have.

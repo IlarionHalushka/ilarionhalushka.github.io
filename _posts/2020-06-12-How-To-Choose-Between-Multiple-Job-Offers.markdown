@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Choose Between Multiple Job Offers.
+title: How To Choose Between Multiple Job Offers
 date: 2020-06-12
 description: |
   Scientific way of choosing the best job offer. 

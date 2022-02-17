@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do Not EVER Accept The Counter Offer.
+title: Do Not EVER Accept The Counter Offer
 date: 2021-08-10
 description: |
     Accepting counter offer from current company usually leads to bad consequences, which employee rarely can predict in advance.

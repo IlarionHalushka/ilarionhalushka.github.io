@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Multiple Foreign Languages.
+title: Learning Multiple Foreign Languages
 date: 2020-06-21
 description: |
   How I learned two foreign languages. 
