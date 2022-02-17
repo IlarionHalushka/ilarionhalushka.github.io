@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithms - Must-have Skill for Developer.
+title: Algorithms - Must-have Skill for Developer
 date: 2021-05-19
 description: |
     Why every professional and skilled developer should practice solving algorithmic problems?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cracking Google Summer of Code.
+title: Cracking Google Summer of Code
 date: 2020-05-07
 description: |
   Truth about Google Summer of Code GSoC.

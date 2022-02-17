@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Companies Build Trust With Employees.
+title: How Companies Build Trust With Employees
 date: 2021-07-05
 description: |
     Be A Parent.  Be A Friend. Be A Doctor. Be An Accountant. Be A Stylist. Be A Bank. Be An Investor. Be An Employer.

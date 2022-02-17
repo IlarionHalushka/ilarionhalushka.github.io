@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Costs and Risks of Losing an Employee.
+title: Costs and Risks of Losing an Employee
 date: 2021-08-11
 description: |
     Recruitment expenses, time to interview, missed deadlines, time for onboarding/educating new one and many more...

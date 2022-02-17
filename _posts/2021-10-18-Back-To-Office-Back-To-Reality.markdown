@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back To Office. Back To Reality.
+title: Back To Office. Back To Reality
 date: 2021-10-18
 description: |
     Covid 19 welcomed working from home, 

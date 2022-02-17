@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Value Your Time. Do Not Work Overtime.
+title: Value Your Time. Do Not Work Overtime
 date: 2022-02-16
 description: |
     You have to work as many hours as much you are paid.
