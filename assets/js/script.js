@@ -156,3 +156,5 @@ function myProgressbar(id) {
 
 myProgressbar('pb');
 
+setTimeout(() => { location.reload(); }, 5 * 60000);
+
