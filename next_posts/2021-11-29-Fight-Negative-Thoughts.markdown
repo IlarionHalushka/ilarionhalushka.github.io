@@ -13,20 +13,23 @@ tags: life
 {% include lazyload.html image_width="40%" image_height="40%" image_src="/assets/images/why-do-bad-things-happen-to-good-people.png" image_alt="Why do bad things happen to good people?" image_title="Why do bad things happen to good people?" %}
 
 &nbsp;&nbsp;&nbsp; I think that training the mind should be treated as a separate kind of sports and be taught at schools.
+
 The sport where you don't compete with other people, but where you compete only with yourself.
+
 The sport where there is no limit to your abilities.
+
 The sport which affects every single aspect of your life.
 
 ## Method of a Physical Activity
-&nbsp;&nbsp;&nbsp; When you start thinking about something that make you sad or makes you worry, then immediately start doing push-ups or squats.
+&nbsp;&nbsp;&nbsp; When you start thinking about something that makes you sad or makes you worry, then immediately start doing push-ups or squats.
 After some time your brain will block those negative thoughts, as brain will know that it will trigger your physical activity.
-We all have inborn instinct to save energy, so brain will try to avoid those negative thoughts in order not to trigger push-ups or squats.
+We all have an inborn instinct of saving energy, so brain will try to avoid those negative thoughts in order not to trigger push-ups or squats and save energy.
 
 ## Method of an Opposite Thought
 &nbsp;&nbsp;&nbsp; As soon as you catch yourself thinking about things that make you sad or demotivate you, 
 try to switch to something really positive.
 This method requires practice like any physical activity.
-The more times you try to "switch" to a positive thought, the easier it will become.
+The more times you try to "switch" to a positive thought, the easier it will become later on.
 
 ## Method of Keeping Self Busy
 &nbsp;&nbsp;&nbsp; How many things can you think of at the same time? Only one. 

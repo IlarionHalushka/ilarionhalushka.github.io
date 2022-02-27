@@ -27,37 +27,44 @@ If you don't understand the code of
 If you currently have NoSQL DB, imagine that in one month you will have to switch to SQL DB.
   Write code according to this thought, layer your code structure.
 
-
+## Make Abstractions from 3rd party systems
 * Write code as if you will replace third party service in one month.
 Let's say you use stripe.....
   
-
+## Write Cloud Independent Code
 * Write code as if you will move from one cloud to another, or from cloud to self-hosted servers.
 Amazon -> Google
 
+## Write Extendable Code
 * Write code as if you will need to support multiple similar third party services.
 POS.
   
+## Write Framework Independent Code
 * Write code as if you will move from you top-notch high-tech modern hype framework
 to another top-notch high-tech modern hype framework.
   
+## Care About Code
 * Write code as if you will have to maintain it for the rest of your life. 
 Remember that code is written once and read hundreds or even thousands times.
   
+## Don't start coding until have a solution
 * If you can't solve the problem in your mind, don't start coding.
 Think it through. Give your brain some time to process this information.
   Switch to another task. Go to sleep.
   
+## Do Not Hurry
 * Do not sacrifice code quality, when you are pushed to work faster.
 You know you are going to pay for bad code. 
 Writing poor code is like shooting self in foot.
 
+## Sometimes You Can Write Bad Code
 * Sometimes life pushes us to compromise code quality over business needs.
 In book it is mentioned that tech debt stays there forever. 
   Which is not 100% true. 
   Let's say we are waiting for another team or third party service to release a new feature.
   Until that happens, we write some quick ugly work-around which stays there for 1-2 weeks and then will be deleted.
   
+## Never Ending Loop Of Poorly Written Code
 * Working on a project which already has violated all the Clean Code concepts makes us
 write bad code ourselves.
   I experienced this once, when I was just too scared to touch somebody else's code.
@@ -65,15 +72,19 @@ write bad code ourselves.
   But why would I want to wake up at night or on weekends to fix the bugs that 
   I potentially introduced by refactoring.
   
+## Keep dependencies up to date
 * Invest time into libraries/frameworks updates. The sooner the better.
 
+## Working With Dates Becomes Messy
 * Unify working with dates. Preferably use UTC timezone everywhere.
-Use same class for working with dates.
+Use same class/library for working with dates.
   
+## The Earlier The Better
 * Enforce code quality from day 1.
 Also when someone else joins the team, perform as ///////
   code reviews as possible.
   
+## Automate Repetitive Tasks
 * Automate the process. When you hear multiple times different people say
 "Oh I forgot to update, I forgot to run, I forgot to...".
   It means that probably the problem is not with people,
@@ -94,7 +105,7 @@ Funny joke go between the programmers: "the smallest pull request gets most comm
 
 * Meaningful commit messages, and branch names.
 
-* Squash commits it makes sense.
+* Squash commits when it makes sense.
   There is no use in commits with message "address code review comments" or "fix tests".
 
 * Culture of code reviews. Some people say that code reviews are not needed

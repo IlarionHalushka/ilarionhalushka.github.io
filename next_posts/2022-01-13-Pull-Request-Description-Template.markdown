@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Pull Request Description Is Important
+title: Pull Request Description Template
 date: 2022-01-13
 description: |
     
