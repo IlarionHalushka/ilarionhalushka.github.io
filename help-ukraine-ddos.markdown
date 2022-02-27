@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Інформаційна Війна 🇺🇦
+title: Кібервійна Cyberwarfare 🇺🇦
 permalink: /help-ukraine-ddos
 ---
 
