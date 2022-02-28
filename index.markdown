@@ -2,9 +2,14 @@
 layout: default
 ---
 
-## BEST OF THE BEST ARTICLE
+### BEST OF THE BEST ARTICLE
 
-<a target="_blank" href="/help-ukraine">🇺🇦 Кібервійна Cyberwarfare 🇺🇦</a>
+<ul class="posts-list">
+
+<li>
+       <a target="_blank" href="/help-ukraine">🇺🇦 Кібервійна Cyberwarfare 🇺🇦 Методи боротьби</a>
+    </li>
+</ul>
 
 
 ### Best articles
