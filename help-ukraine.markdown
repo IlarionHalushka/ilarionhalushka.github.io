@@ -15,7 +15,7 @@ permalink: /help-ukraine
 Потрібен лише ноут та інтернет.
 
 ## Методи боротьби
-1. <a target="_blank" href="/help-ukraine-ddos">DDoS ATTACK</a>
+1. <a target="_blank" href="/help-ukraine-ddos">DDoS ATTACK (только с компа)</a>
 1. <a target="_blank" href="/help-ukraine-social-networks">Інформаційна війна</a>
 
 Поступово буду додавати інші методи.
