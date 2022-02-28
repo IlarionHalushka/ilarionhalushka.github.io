@@ -22,6 +22,8 @@ permalink: /help-ukraine
 ## Методи боротьби
 1. <a target="_blank" href="/help-ukraine-ddos">DDoS attack</a>
 
+Поступово буду додавати інші методи.
+
 
 
 
