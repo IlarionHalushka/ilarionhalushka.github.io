@@ -16,6 +16,8 @@ permalink: /help-ukraine-social-networks
 
 ## 0. Телеграм чаты помощи солдатам.
 
+&nbsp;&nbsp;&nbsp; Вводим в панику народ рф -> никто не будет поддерживать солдатов рф -> солдаты теряют мотивацию, едят траву как в 1932-1933 и опускают руки.
+
 {% include lazyload.html image_width="100%" image_height="100%" image_src="/assets/images/help-ukraine-telegram-bots.jpeg" %}
 
 ### Алгоритм:
