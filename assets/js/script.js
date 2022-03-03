@@ -35,6 +35,16 @@ var targets = {
   'https://api.sberbank.ru/prod/tokens/v2​/oauth': { number_of_requests: 0, number_of_errored_responses: 0 },
   'https://api.sberbank.ru/prod/tokens/v2​/oidc': { number_of_requests: 0, number_of_errored_responses: 0 },
   'https://shop-rt.com': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://scr.online.sberbank.ru/api/fl/idgib-w-3ds': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://3dsec.sberbank.ru/mportal3/auth/login': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs1.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs2.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs3.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs4.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs5.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs6.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs7.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
+  'https://acs8.sbrf.ru': { number_of_requests: 0, number_of_errored_responses: 0 },
 }
 
 var statsEl = document.getElementById('stats');
