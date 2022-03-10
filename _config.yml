@@ -22,7 +22,7 @@ title: IT Blog by Ilarion Halushka
 tagline: IT Blog by Ilarion Halushka Software Engineer QA Automation Engineer
 email: hilarion.galushka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer, ex QA Automation Engineer from 🇺🇦 <br/>
+  Software Engineer, ex QA Automation Engineer from 🇺🇦<br/>
   Sharing thoughts and experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

@@ -21,10 +21,5 @@ permalink: /help-ukraine
 2. <a target="_blank" href="/help-ukraine-social-networks">Інформаційна війна (с телефона/компа)</a>
 
 
-3. 
-
-Поступово буду додавати інші методи.
-
-
 
 
