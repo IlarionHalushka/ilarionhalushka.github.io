@@ -4,12 +4,6 @@ layout: default
 
 <ul class="posts-list">
 
-<li>
-       <a target="_blank" href="/help-ukraine">🇺🇦 Кібервійна Cyberwarfare 🇺🇦 Методи боротьби</a>
-    </li>
-</ul>
-
-
 ### Best articles
 <ul class="posts-list">
     <li>
