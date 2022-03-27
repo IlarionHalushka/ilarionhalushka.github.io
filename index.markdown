@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<ul class="posts-list">
-
 ### Best articles
 <ul class="posts-list">
     <li>
