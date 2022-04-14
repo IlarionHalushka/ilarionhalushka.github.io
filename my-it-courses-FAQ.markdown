@@ -4,6 +4,9 @@ title: My IT Courses FAQ
 permalink: /my-IT-courses-FAQ
 ---
 
+#### Что почем?
+- бесплатно.
+
 #### Что от меня надо?
 - желание, время и упорство.
 
