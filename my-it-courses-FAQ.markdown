@@ -4,6 +4,8 @@ title: My IT Courses FAQ
 permalink: /my-IT-courses-FAQ
 ---
 
+# Вопросы и ответы по курсам
+
 #### Что почем?
 - бесплатно.
 
