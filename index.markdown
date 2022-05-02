@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Курс по программированию и тестированию
+### Programming and testing course
 
 <div class="video-container">
   <iframe
