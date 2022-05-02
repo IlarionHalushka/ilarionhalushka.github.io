@@ -2,6 +2,19 @@
 layout: default
 ---
 
+### Курс по программированию и тестированию
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/videoseries?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7&autoplay=1&start=251&cc_lang_pref=ru&cc_load_policy=1" 
+    title="IT ликбез курс by Ilarion Halushka" 
+    frameborder="0" 
+    class="video-container"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+
+
 ### Best articles
 <ul class="posts-list">
     <li>
