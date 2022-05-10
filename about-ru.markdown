@@ -13,7 +13,7 @@ permalink: /about/ru
 Привет, меня зовут Илларион Галушка.
 
 <ul>
- <li>Программист в <a target="_blank" href="https://corp.castingnetworks.com/">Casting Networks</a>.</li>
+ <li>Программист в <a target="_blank" href="https://khealth.com/">K Health</a>.</li>
  <li>Разработчик приложения <a target="_blank" href="https://apps.apple.com/by/app/%D0%B7%D0%BD%D0%BE-%D0%BD%D0%B0-%D1%96%D0%B7%D1%96/id1578565229">ZNO na izi</a>, которое помогает школьникам подготовиться к ЗНО.</li>
  <li><a target="_blank" href="https://github.com/IlarionHalushka">Пишу код</a> на JavaScript та Typescript.</li>
  <li>В прошлом QA Automation Engineer (JS, Java).</li>
