@@ -14,13 +14,14 @@ permalink: /about/ua
 
 <ul>
  <li>Програміст в <a target="_blank" href="https://khealth.com/">K Health</a>.</li>
+ <li>Автор <a target="_blank" href="https://www.youtube.com/playlist?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7">безкоштовного курсу з Тестування ПЗ на ютубі <i class="fa fa-1x fa-youtube"></i></a>.</li>
  <li>Розробник додатку <a target="_blank" href="https://apps.apple.com/by/app/%D0%B7%D0%BD%D0%BE-%D0%BD%D0%B0-%D1%96%D0%B7%D1%96/id1578565229">ZNO na izi</a>, який допомагає школярам підготуватися до ЗНО.</li>
- <li><a target="_blank" href="https://github.com/IlarionHalushka">Пишу код</a> на JavaScript та Typescript.</li>
+ <li><a target="_blank" href="https://github.com/IlarionHalushka">Пишу код</a> на JavaScript, Typescript, Python.</li>
  <li>В минулому QA Automation Engineer (JS, Java).</li>
  <li>Диплом Магістра в ІТ, Системний Аналіз.</li>
  <li>Пройшов стажування в <a target="_blank" href="https://ilarionhalushka.github.io/Cracking-Google-Summer-of-Code-GSoC">Google Summer of Code</a>.</li>
  <li>Open source контрибьютор в додаток <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
- <li>Організував <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">курси</a> з Компьютерних наук для студентів.</li>
+ <li>Організував <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">безкоштовні курси</a> з Компьютерних наук для студентів.</li>
  <li>Переможець хакатону <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
  <li>Розмовляю <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">Англійською, Німецькою</a>, Українською, Російською.</li>
 </ul>
