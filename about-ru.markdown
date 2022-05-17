@@ -23,6 +23,7 @@ permalink: /about/ru
  <li>Open source контрибьютор в приложение <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
  <li>Организовал <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">бесплатные курсы</a> по Компьютерным наукам для студентов.</li>
  <li>Победитель хакатона <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
+ <li><a target="_blank" href="https://gist.github.com/IlarionHalushka/aebab1c82369b89c1d6afb12be568679">ISTQB</a> сертифицированный тестировщик.</li>
  <li>Говорю на <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">Английском, Немецком</a>, Украинском, Русском.</li>
 </ul>
 

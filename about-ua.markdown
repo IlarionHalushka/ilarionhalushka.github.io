@@ -23,6 +23,7 @@ permalink: /about/ua
  <li>Open source контрибьютор в додаток <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
  <li>Організував <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">безкоштовні курси</a> з Компьютерних наук для студентів.</li>
  <li>Переможець хакатону <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
+ <li><a target="_blank" href="https://gist.github.com/IlarionHalushka/aebab1c82369b89c1d6afb12be568679">ISTQB</a> сертифікований тестувальник.</li>
  <li>Розмовляю <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">Англійською, Німецькою</a>, Українською, Російською.</li>
 </ul>
 
