@@ -23,6 +23,7 @@ Hi! I’m Ilarion Halushka.
  <li>Open source contributor to <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
  <li>Organized Computer Sciences <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">free courses</a> for students.</li>
  <li>Winner of hackathon <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
+<li><a target="_blank" href="https://gist.github.com/IlarionHalushka/aebab1c82369b89c1d6afb12be568679">ISTQB</a> certified tester.</li>
  <li>Speak <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">English, German</a>, Ukrainian, Russian.</li>
 </ul>
 
