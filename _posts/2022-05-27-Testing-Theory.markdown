@@ -15,25 +15,29 @@ tags:
 
 ## 1. Определения
 
-**Тестирование ПО** — проверка соответствия между реальным и ожидаемым поведением программы.
+##### Тестирование
+— проверка соответствия между реальным и ожидаемым поведением.
 
-**Тестирование**  — это одна из техник контроля качества, включающая в себя активности по:
+##### Тестирование
+— это одна из техник контроля качества, включающая в себя активности по:
 * Test Management (планированию работ) 
 * Test Design (проектирование тестов) 
 * Test Execution (выполнение тестов)
 * Test Analysis (анализ результатов тестирования)
 
-**Качество ПО (Software Quality)** 
+##### Качество ПО (Software Quality) 
 — это совокупность характеристик программного обеспечения, 
 относящихся к его способности удовлетворять установленные и предполагаемые потребности.
 
 ## 2. Валидация vs Верификация
 
-**Верификация (verification)** — оценка соответствия продукта требованиям (спецификации).
+##### Верификация (verification)
+— оценка соответствия продукта требованиям (спецификации).
 
 Отвечает на вопрос: "Система работает в соответствии с требованиями?"
 
-**Валидация (validation)** — оценка соответствия продукта ожиданиям и требованиям пользователей.
+##### Валидация (validation)
+— оценка соответствия продукта ожиданиям и требованиям пользователей.
 
 Отвечает на вопрос: "Требования удовлетворяют ожидания пользователя?"
 
@@ -85,11 +89,11 @@ tags:
 
 ## 7. Техники тест дизайна <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
-1. **Исчерпывающее тестирование (Exhaustive Testing)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Исчерпывающее тестирование (Exhaustive Testing) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
   - проверка всех возможных комбинаций входных значений. 
   На практике применение этого метода не представляется возможным. (см. принцип тестирования №2)
 
-1. **Эквивалентное Разделение (Equivalence Partitioning)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Эквивалентное Разделение (Equivalence Partitioning) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
    - Как пример, у вас есть диапазон допустимых значений от 1.00 до 10.00 долларов, 
    вы должны выбрать одно любое верное значение внутри интервала, скажем, 
    5.00, и любые неверные значения вне интервала, например 0.99 и 11.00.
@@ -102,7 +106,7 @@ image_alt="Bug lifecycle"
 image_title="Bug lifecycle" %}
 
 
-1. **Анализ Граничных Значений (Boundary Value Analysis)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Анализ Граничных Значений (Boundary Value Analysis) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - Как пример, у вас есть диапазон допустимых значений от 1.00 до 10.00 долларов.
 - **Two value (двузначный) BVA**: валидные граничные значения 1.00, 10.00, и невалидные значения 0.99 и 10.01. 
 - **Three/Full value (трехзначный) BVA**: валидные граничные значения 1.00, 1.01, 10.00, 9.99, и невалидные значения 0.99 и 10.01.
@@ -114,13 +118,13 @@ image_src="/assets/images/testing-theory/test-design-BVA.png"
 image_alt="Bug lifecycle"
 image_title="Bug lifecycle" %}
 
-1. **Причина / Следствие (Cause/Effect)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Причина / Следствие (Cause/Effect) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - ввод комбинаций условий (причин), для получения ответа от системы (следствие). 
 - Например, вы проверяете возможность добавлять клиента:
 - **Причина**: необходимо заполнить поля «Имя», «Адрес», «Номер Телефона» и нажать кнопку «Добавить».
 - **Следствие**: После нажатия на кнопку «Добавить», система добавляет клиента в базу данных и показывает его номер на экране.
 
-1. **Предугадывание ошибки (Error Guessing)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Предугадывание ошибки (Error Guessing) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - использование знаний системы и способность к 
    интерпретации спецификации на предмет того, чтобы «предугадать» 
    при каких входных условиях система может выдать ошибку.
@@ -136,9 +140,9 @@ image_title="Bug lifecycle" %}
 
 ## 8. Продвинутые техники тест дизайна
 
-`Удиви интервьюера`
+`Удиви интервьюера. Вааааау...`
 
-1. **Попарное тестирование (Pairwise Testing)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Попарное тестирование (Pairwise Testing) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - Формирование таких наборов тестовых данных, в которых каждое тестируемое значение каждого из
   проверяемых параметров хотя бы единожды сочетается с каждым тестируемым значением всех остальных проверяемых параметров.
 - Суть техники — мы не проверяем все сочетания всех значений, но проверяем все пары значений.
@@ -150,7 +154,7 @@ image_src="/assets/images/testing-theory/test-design-pair-wise.png"
 image_alt="Bug lifecycle"
 image_title="Bug lifecycle" %}
 
-2. **Таблица принятия решений (Decision table)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Таблица принятия решений (Decision table) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - В таблицах решений представлен набор условий, одновременное выполнение которых должно привести к определенному действию/решению.
 
 {% include lazyload.html
@@ -160,7 +164,7 @@ image_src="/assets/images/testing-theory/test-design-decision-table.png"
 image_alt="Bug lifecycle"
 image_title="Bug lifecycle" %}
 
-3. **Диаграмма (граф) состояний-переходов (State Transition diagram)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Диаграмма (граф) состояний-переходов (State Transition diagram) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - диаграмма для описания поведения системы. 
 - Система имеет конечное число состояний и переходов между ними.
 - Диаграмма может быть переведена в Таблицу состояний-переходов (или в таблицу принятия решений).
@@ -172,7 +176,7 @@ image_src="/assets/images/testing-theory/test-design-state-transition-diagram.pn
 image_alt="Bug lifecycle"
 image_title="Bug lifecycle" %}
 
-4. **Use case (пользовательские сценарии)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Use case (пользовательский сценарий) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
 &nbsp;&nbsp;&nbsp; Это сценарий взаимодействия пользователя с системой для достижения цели.
 
@@ -188,7 +192,7 @@ Use case содержит:
 
 `Просвети интервьюера. Открой ему глаза.`
 
-1 - **Блок-схема (block scheme/diagram)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Блок-схема (block scheme/diagram) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
 &nbsp;&nbsp;&nbsp; Блок-схему можно использовать как технику тест дизайна, составляя тест-кейсы по логике схемы.
 
@@ -199,7 +203,7 @@ image_src="/assets/images/testing-theory/test-design-block-schema.png"
 image_alt="Bug lifecycle"
 image_title="Bug lifecycle" %}
 
-2 - **Шляпы / роли** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Шляпы / роли <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
 &nbsp;&nbsp;&nbsp; Техника "Шляпы / роли" чем-то схожа с техникой составления тест кейсов по Use Case.
 
@@ -217,13 +221,14 @@ image_alt="Bug lifecycle"
 image_title="Bug lifecycle" %}
 
 
-3 - **Разговорчики-driven (talks-driven)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Техники, о которых пока нигде не слышал
 
 &nbsp;&nbsp;&nbsp; О "Разговорчики-driven", "Analytics-driven", "Bug-driven" я пока нигде не слышал.
 
 `Каждый имеет право придумать свою технику тест дизайна.` © Илларион
 
-&nbsp;&nbsp;&nbsp; **Разговорчики-driven (talks-driven)** - собираем в одной комнате/звонке одного или нескольких
+##### Разговорчики-driven (talks-driven) 
+Собираем в одной комнате/звонке одного или нескольких
 программистов, менеджеров, клиентов, тестировщиков и тд. И начинаем допрос о конкретной функции или всей системе.
 
 &nbsp;&nbsp;&nbsp; Если фантазия не работает, то задаем Wh-вопросы:
@@ -235,7 +240,7 @@ what, when, where, who, whom, which, whose, why and how -
 Не выпускаем, пока не получим все ответы и не решим какие тесты проектировать.
 
 
-4 - **Аналитика-driven (analytics-driven)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Аналитика-driven (analytics-driven) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
 &nbsp;&nbsp;&nbsp; Если на проекте используется аналитика, например при кликах на кнопки
 или при открытии страниц отправляются ивенты (events) в систему для аналитики, то можно
@@ -245,9 +250,9 @@ what, when, where, who, whom, which, whose, why and how -
 Почему бы основываясь на этих данных не составить тест кейсы?
 
 
-5 - **Баг-driven (bugs-driven)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Баг-driven (bugs-driven) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
-&nbsp;&nbsp;&nbsp; Принцип тестирования №4 Скопление дефектов (Defects clustering) гласит, что "бОльшая часть дефектов .... содержится в небольшом количестве модулей".
+&nbsp;&nbsp;&nbsp; Принцип тестирования №4 Скопление дефектов (Defects clustering) гласит, что "большая часть дефектов .... содержится в небольшом количестве модулей".
 
 &nbsp;&nbsp;&nbsp; Основываясь на найденных ранее багах и на обращениях клиентов в службу поддержки,
 можно определить "больные" места системы и сконцентрировать тест кейсы на этих модулях системы.
@@ -258,25 +263,27 @@ what, when, where, who, whom, which, whose, why and how -
 
 ## 10. Exploratory vs Ad-hoc testing
 
-**Исследовательское тестирование (exploratory testing)** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Исследовательское тестирование (exploratory testing) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - это одновременное изучение системы, проектирование тестов (тест дизайн) и тестирование.
 - Данная техника базируется на опыте тестировщика (experience based).
 - Пример: приходит тестировщик на новый проект и начинает одновременно изучать сайт,
   писать чек-лист и проходить этот чек-лист (тестировать).
 
-**Ad-hoc тестирование** <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
+##### Ad-hoc тестирование <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 - Перевод от автора статьи - "тестирование от балды".
 - Вид тестирования, который выполняется без подготовки к тестам, без определения ожидаемых результатов, проектирования тестовых сценариев.
 - Неформальное, импровизационное тестирование.
 
 
 ## 10. Test Case (тестовый случай) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
-&nbsp;&nbsp;&nbsp; **Test Case** — это артефакт/документ, описывающий совокупность шагов, 
+##### Test Case 
+— это артефакт/документ, описывающий совокупность шагов, 
 конкретных условий и параметров, необходимых для проверки тестируемой функции.
 
-&nbsp;&nbsp;&nbsp; **Test Case** - это описание проверки работы системы, которое может выполнить любой человек из команды.
+##### Test Case 
+— это описание проверки работы системы, которое может выполнить любой человек из команды.
 
-&nbsp;&nbsp;&nbsp; **Тест кейс состоит из**:
+##### Тест кейс состоит из:
 * ID (идентификатор)
 * Title (название)
 * Type (тип)
@@ -286,7 +293,7 @@ what, when, where, who, whom, which, whose, why and how -
 * Expected Result (ожидаемый результат)
 * Post conditions (пост условия) - например очистка данных или возвращение системы в первоначальное состояние.
 
-Тест кейсы разделяются на позитивные и негативные:
+##### Тест кейсы разделяются на позитивные и негативные:
 * **Позитивный тест кейс** использует только корректные данные и проверяет, что приложение правильно выполнило вызываемую функцию.
 * **Негативный тест кейс** оперирует как корректными, так и некорректными данными (минимум 1 некорректный параметр) 
   и ставит целью проверку исключительных ситуаций (срабатывание валидаторов), а также проверяет, 
@@ -297,9 +304,8 @@ what, when, where, who, whom, which, whose, why and how -
 
 ## 11. Check-list (Чек-лист) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
-&nbsp;&nbsp;&nbsp; **Check list** — это документ, описывающий что должно быть протестировано.
-
-&nbsp;&nbsp;&nbsp; **Check list** — список пунктов, которые нужно протестировать.
+##### Check list
+— это документ, описывающий что должно быть протестировано.
 
 * Чек-лист может быть абсолютно разного уровня детализации.
 * Как правило, чек-лист содержит только действия (шаги) без ожидаемого результата.
@@ -310,10 +316,10 @@ what, when, where, who, whom, which, whose, why and how -
 
 ## 12. Bug report (баг репорт) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
-&nbsp;&nbsp;&nbsp; **Bug Report** — 
-это документ, описывающий последовательность действий, которые привели к некорректной работе системы, с указанием причин и ожидаемого результата.
+##### Bug Report
+— это документ, описывающий последовательность действий, которые привели к некорректной работе системы, с указанием причин и ожидаемого результата.
 
-&nbsp;&nbsp;&nbsp; **Основные составляющие Bug report**:
+##### Основные составляющие Bug report:
 * ID (идентификатор)
 * Название (Title) 
 * Короткое описание (Summary)
@@ -332,7 +338,7 @@ what, when, where, who, whom, which, whose, why and how -
 * Ожидаемый результат (Expected Result)
 
 
-&nbsp;&nbsp;&nbsp; **Дополнительные составляющие Bug report**:
+##### Дополнительные составляющие Bug report:
 * Screenshots (скриншоты) <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 * Video (видео)
 * Credentials (login + password)
@@ -357,29 +363,33 @@ what, when, where, who, whom, which, whose, why and how -
 
 ## 13. Severity vs Priority <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
-&nbsp;&nbsp;&nbsp; **Серьезность (Severity)** — это атрибут, характеризующий влияние дефекта на работоспособность приложения.
+##### Серьезность (Severity)
+— это атрибут, характеризующий влияние дефекта на работоспособность приложения.
 
 Severity выставляется тестировщиком.
 
-
-**Градация Severity:**
+##### Градация Severity:
 * S1 Блокирующая (Blocker)
 * S2 Критическая (Critical)
 * S3 Значительная (Major)
 * S4 Незначительная (Minor)
 * S5 Тривиальная (Trivial)
 
-&nbsp;&nbsp;&nbsp; **Приоритет (Priority)** — это атрибут, указывающий на очередность выполнения задачи или устранения дефекта. 
+##### Приоритет (Priority)
+— это атрибут, указывающий на очередность выполнения задачи или устранения дефекта. 
+
 Чем выше приоритет, тем быстрее нужно исправить дефект.
 
 Priority выставляется менеджером, тимлидом или заказчиком.
 
-Реальность: на всех проектах, где я работал, был только priority :)
-
-**Градация Priority:**
+##### Градация Priority:
 * P1 Высокий (High)
 * P2 Средний (Medium)
 * P3 Низкий (Low)
+
+Реальность: на всех проектах, где я работал, был только priority :)
+
+Реальность: на разных проектах разные градации.
 
 Пример вопроса на собеседовании про Severity / Priority - <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
@@ -397,20 +407,24 @@ Priority выставляется менеджером, тимлидом или 
 
 ## 15. Defect / Error / Bug / Failure
 
-&nbsp;&nbsp;&nbsp; **Дефект (он же баг)** — это несоответствие фактического результата ожидаемому результату, описанному в требованиях.
+##### Дефект (он же баг)
+— это несоответствие фактического результата ожидаемому результату, описанному в требованиях.
 
-&nbsp;&nbsp;&nbsp; **Bug (defect)** — ошибка программиста (или другого члена команды), то есть когда в программе, 
+##### Bug (defect)
+— ошибка программиста (или другого члена команды), то есть когда в программе, 
 что-то идёт не так как планировалось и программа выходит из-под контроля.
 
 Например, когда никак не контролируется ввод пользователя,
 в результате неверные данные вызывают краши или иные «приколы» в работе программы. 
 Либо внутри программа построена так, что изначально не соответствует тому, что от неё ожидается.
 
-&nbsp;&nbsp;&nbsp; **Error** — ошибка пользователя, то есть он пытается использовать программу иным способом.
+##### Error
+— ошибка пользователя, то есть он пытается использовать программу иным способом.
 
 Пример — вводит буквы в поля, где требуется вводить цифры (возраст, количество товара и т.п.).
 
-&nbsp;&nbsp;&nbsp; **Failure** — сбой (причём необязательно аппаратный) в работе компонента, всей программы или системы. 
+##### Failure
+— сбой (причём необязательно аппаратный) в работе компонента, всей программы или системы. 
 
 То есть, существуют такие дефекты, которые приводят к сбоям и существуют такие, которые не приводят. 
 UI-дефекты например. Но аппаратный сбой, никак не связанный с software, тоже является failure.
@@ -418,16 +432,16 @@ UI-дефекты например. Но аппаратный сбой, ника
 
 
 ## 16. Уровни Тестирования (Levels of testing)
-1. **Модульное тестирование (Unit Testing)**
+##### 1. Модульное тестирование (Unit Testing)
    Тестирование объектов, классов, функций и т.д., обычно выполняемое программистами.
 
-2. **Интеграционное тестирование (Integration Testing)**
+##### 2. Интеграционное тестирование (Integration Testing)
    Тестирование взаимодействия между классами, функциями, модулями. Например тестирование API через Postman. <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
-3. **Системное тестирование (System Testing)**
+##### 3. Системное тестирование (System Testing)
    Проверка как функциональных, так и не функциональных требований в системе. 
    
-4. **Приемочное тестирование (Acceptance Testing)**
+##### 4. Приемочное тестирование (Acceptance Testing)
    Проверка соответствия системы требованиям и проводится с целью:
    * определения удовлетворяет ли система приемочным критериям;
    * вынесения решения заказчиком/менеджером принимается приложение или нет.
@@ -469,7 +483,7 @@ UI-дефекты например. Но аппаратный сбой, ника
 
 ## 18. Принципы тестирования (Principles of testing)
 
-**1. Тестирование демонстрирует наличие дефектов** (Testing shows presence of defects)
+##### 1. Тестирование демонстрирует наличие дефектов (Testing shows presence of defects)
 
 Тестирование может показать, что дефекты присутствуют, но не может доказать, что их нет. 
 
@@ -480,30 +494,30 @@ UI-дефекты например. Но аппаратный сбой, ника
 [comment]: <> (даже если дефекты не были обнаружены, это не доказывает его корректности.)
 
 
-**2. Исчерпывающее тестирование недостижимо** (Exhaustive testing is impossible)
+##### 2. Исчерпывающее тестирование недостижимо (Exhaustive testing is impossible)
 
 Полное тестирование с использованием всех комбинаций вводов и предусловий физически невыполнимо, за исключением тривиальных случаев.
 
-**3. Раннее тестирование** (Early testing)
+##### 3. Раннее тестирование (Early testing)
 
 Чтобы найти дефекты как можно раньше,
 активности по тестированию должны быть начаты как можно раньше в жизненном цикле разработки.
 
-**4. Скопление дефектов** (Defects clustering)
+##### 4. Скопление дефектов (Defects clustering)
 
 Как правило, большая часть дефектов, 
 обнаруженных при тестировании, содержится в небольшом количестве модулей.
 
-**5. Парадокс пестицида** (Pesticide paradox)
+##### 5. Парадокс пестицида (Pesticide paradox)
 
 Если одни и те же тесты будут прогоняться много раз, 
 в конечном счете этот набор тестовых сценариев больше не будет находить новых дефектов.
 
-**6. Тестирование зависит от контекста** (Testing is concept depending)
+##### 6. Тестирование зависит от контекста (Testing is concept depending)
 
 Тестирование выполняется по-разному в зависимости от контекста.
 
-**7. Заблуждение об отсутствии ошибок** (Absence-of-errors fallacy)
+##### 7. Заблуждение об отсутствии ошибок (Absence-of-errors fallacy)
 
 Обнаружение и исправление дефектов не помогут, 
 если созданная система не подходит пользователю и не удовлетворяет его ожиданиям и потребностям.
@@ -512,11 +526,13 @@ UI-дефекты например. Но аппаратный сбой, ника
 
 ## 19. Cтатическое и динамическое тестирование
 
-&nbsp;&nbsp;&nbsp; **Статическое (static) тестирование** производится **БЕЗ** запуска кода продукта.
+##### Статическое (static) тестирование
+Производится **БЕЗ** запуска кода продукта.
 
 Примеры: тестирование требований/документации, код ревью, статические анализаторы кода.
 
-&nbsp;&nbsp;&nbsp; **Динамическое (dynamic) тестирование** производится **С** запуском кода продукта.
+##### Динамическое (dynamic) тестирование
+Производится **С** запуском кода продукта.
 
 
 ## 20. Требования (requirements)
@@ -526,7 +542,7 @@ UI-дефекты например. Но аппаратный сбой, ника
 Требования описывают то, что необходимо реализовать, 
 без детализации технической стороны решения. Что, а не как.
 
-**Требования к требованиям**:
+##### Требования к требованиям:
 1. корректность
 1. недвусмысленность
 1. полнота
@@ -571,6 +587,12 @@ Scrum <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/
 Scrum-ban <a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ" title="Youtube"><i class="fa fa-1x fa-youtube-square"></i></a>
 
 ## To be continued... TODO
+
+Разница QA/QC/Tester
+
+Подходы к интеграционному тестированию
+
+Описания типов тестирования
 
 Источники:
 https://dou.ua/forums/topic/13389, 
