@@ -2,29 +2,19 @@
 layout: default
 ---
 
-[comment]: <> (### Programming and testing course)
+### Programming and testing course
 
-[comment]: <> (<div class="video-container">)
-
-[comment]: <> (  <iframe)
-
-[comment]: <> (    src="https://www.youtube.com/embed/videoseries?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7&autoplay=1&start=251&cc_lang_pref=ru&cc_load_policy=1" )
-
-[comment]: <> (    title="IT ликбез курс by Ilarion Halushka" )
-
-[comment]: <> (    frameborder="0" )
-
-[comment]: <> (    class="video-container")
-
-[comment]: <> (    width="560")
-
-[comment]: <> (    height="315")
-
-[comment]: <> (    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>)
-
-[comment]: <> (  </iframe>)
-
-[comment]: <> (</div>)
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/videoseries?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7&autoplay=0&start=251&cc_lang_pref=ru&cc_load_policy=1"
+    title="Software Testing Course by Ilarion Halushka"
+    frameborder="0"
+    class="video-container"
+    width="560"
+    height="315"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
 
 
 ### Best articles
