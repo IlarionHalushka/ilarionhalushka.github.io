@@ -4,9 +4,7 @@ I'm Ilarion Halushka, Software Engineer focusing mostly on back-end development
 (Node.js, Python)
 but also working with front-end (React) and mobile (React Native).
 
-Software Engineer with 
-<script>Math.abs(new Date(Date.now() - new Date('2016/09/01').getTime()).getUTCFullYear() - 1970)</script>
-years of experience.
+Software Engineer with 6 years of experience.
 
 ### 🚀 Skills:
 * Languages: JavaScript/TypeScript (primary), Python (secondary), Java(prior).
@@ -39,27 +37,26 @@ years of experience.
  <li>Speak <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">English, German</a>, Ukrainian, Russian.</li>
 </ul>
 
-### Statistics
+---
 
-[![IlarionHalushka GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlarionHalushka&theme=tokyonight)](https://git.io/streak-stats)
+### Social
 
-![IlarionHalushka github stats](https://github-readme-stats.vercel.app/api?hide=stars,contribs&include_all_commits=true&username=IlarionHalushka&show_icons=true&theme=tokyonight&count_private=true&bg_color=#070719,#0c69d7)
-
-### Links
-
-[![linked-in](https://img.shields.io/badge/IT_Blog_By_Ilarion_Halushka-0a062a?style=for-the-badge)](https://ilarionhalushka.github.io/)
+<div id="badges">
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilarion-halushka-6a31a5173/)
-
+[![IT Blog By Ilarion Halushka](https://img.shields.io/badge/IT_Blog_By_Ilarion_Halushka-0a062a?style=for-the-badge)](https://ilarionhalushka.github.io/)
 [![instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/h.i.l.a.r.i.o.n/)
-
 [![youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ)
 
-<img src="https://img.shields.io/youtube/channel/subscribers/UC-nnrcFlfveeW8iBRJe_XXQ?style=social" alt=""/>
+</div>
 
-<img src="https://img.shields.io/youtube/channel/views/UC-nnrcFlfveeW8iBRJe_XXQ?style=social" alt=""/>
+<div id="badges">
 
-<br/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC-nnrcFlfveeW8iBRJe_XXQ?style=social" alt="Youtube subscribers"/>
+  <img src="https://img.shields.io/youtube/channel/views/UC-nnrcFlfveeW8iBRJe_XXQ?style=social" alt="Youtube views"/>
+
+</div>
+
 <br/>
 
 <a style="margin-top: 20px" target="_blank" href="https://stackoverflow.com/users/9110955/ilarion-halushka">
@@ -69,3 +66,52 @@ years of experience.
    title="profile for Ilarion Halushka at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
   />
 </a>
+
+
+---
+
+### :hammer_and_wrench: Skills
+
+<div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ 
+[comment]: <> (  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;)
+
+[comment]: <> (  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;)
+ 
+[comment]: <> (  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;)
+ 
+[comment]: <> (  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;)
+  
+[comment]: <> (<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;)
+  
+[comment]: <> (<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;)
+ 
+[comment]: <> (  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;)
+ 
+[comment]: <> (  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;)
+ 
+[comment]: <> (  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;)
+  
+[comment]: <> (<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;)
+  
+[comment]: <> (<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;)
+  
+[comment]: <> (<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;)
+ 
+[comment]: <> (<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;)
+  
+[comment]: <> (<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>)
+
+</div>
+
+---
+
+### Statistics
+
+[![IlarionHalushka GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlarionHalushka&theme=tokyonight)](https://git.io/streak-stats)
+
+![IlarionHalushka github stats](https://github-readme-stats.vercel.app/api?hide=stars,contribs&include_all_commits=true&username=IlarionHalushka&show_icons=true&theme=tokyonight&count_private=true&bg_color=#070719,#0c69d7)
+
+[![IlarionHalushka Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlarionHalushka&theme=tokyonight&hide=CSS,HTML,SHELL,SCSS,JAVA)](https://github.com/anuraghazra/github-readme-stats)
