@@ -7,8 +7,8 @@ permalink: /about/ru
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Назад к списку статей</button>
 
 <div>
-    <button class="lang-btn" onclick="location.href='/about'" type="button">English</button>
-    <button class="lang-btn" onclick="location.href='/about/ua'" type="button">Українська</button>
+    <button class="lang-btn" onclick="location.href='/about'" type="button">In English 🇬🇧 </button>
+    <button class="lang-btn" onclick="location.href='/about/ua'" type="button">Українською 🇺🇦</button>
 </div>
 
 <h1 itemprop="name">{{ page.title }}</h1>
