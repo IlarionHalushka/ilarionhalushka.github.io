@@ -21,7 +21,7 @@ permalink: /about/ru
  <li>Fullstack Software Engineer в <a target="_blank" href="https://khealth.com/">K Health</a>.</li>
  <li>Автор <a target="_blank" href="https://www.youtube.com/playlist?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7">бесплатного курса по тестированию ПО на ютубе <i class="fa fa-1x fa-youtube"></i></a>.</li>
  <li>Разработчик приложения <a target="_blank" href="https://apps.apple.com/by/app/%D0%B7%D0%BD%D0%BE-%D0%BD%D0%B0-%D1%96%D0%B7%D1%96/id1578565229">ZNO na izi</a>, которое помогает школьникам подготовиться к ЗНО.</li>
- <li><a target="_blank" href="https://github.com/IlarionHalushka">Пишу код</a> на JavaScript, Typescript, Python.</li>
+ <li><a target="_blank" href="https://github.com/IlarionHalushka">Пишу код</a> на JavaScript, TypeScript, Python.</li>
  <li>В прошлом QA Automation Engineer (JS, Java).</li>
  <li>Диплом Магистра в ІТ, Системный Анализ.</li>
  <li>Прошел стажировку в <a target="_blank" href="https://gist.github.com/IlarionHalushka/5d2fd5a74aaffad426c81253e8dd5c65">Google Summer of Code</a>.</li>
