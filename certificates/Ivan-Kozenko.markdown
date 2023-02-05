@@ -12,17 +12,16 @@ author: Ilarion Halushka
 
 {% include lazyload.html image_width="100" image_height="100" image_align="right" image_src="/assets/images/certificates/ivan-kozenko.png" image_alt="Ivan Kozenko" image_title="Ivan Kozenko" %}
 
-&nbsp;&nbsp;&nbsp; **This certificate confirms that Ivan Kozenko completed an Advanced Software Testing course under close supervision of a mentor 🎉**
+&nbsp;&nbsp;&nbsp; **This certificate confirms that Ivan Kozenko completed an Advanced Software Testing course under close supervision of the Senior mentor 🎉**
 
-Ivan has been personally mentored by 
-<a target="_blank" href="/about">Ilarion Halushka</a> on a daily basis
-for 5 months since April 2022.
+Ivan was personally mentored by 
+<a target="_blank" href="/about">Ilarion Halushka</a> on a daily basis.
 
 ## Recommendation from Mentor 👍
 &nbsp;&nbsp;&nbsp; **I totally recommend Ivan and can sign under every skill in his CV.**
 
 &nbsp;&nbsp;&nbsp; He is a hard-working and a very very very motivated person.
-He spends 8-10 hours studying every single day.
+He spent 8-12 hours studying every single day including weekends.
 
 &nbsp;&nbsp;&nbsp; **Ivan is the best student that I had a chance to mentor so far.**
 
@@ -31,7 +30,7 @@ Ivan also has good communication skills and shows a high level of responsibility
 
 ## Skills and Knowledge 🤓
 
-&nbsp;&nbsp;&nbsp;  Again, I can sign under every skill in Ivan's CV.
+&nbsp;&nbsp;&nbsp;  I can sign under every skill in Ivan's CV.
 
 &nbsp;&nbsp;&nbsp; Ivan has successfully completed all the homeworks and **passed over 15 exams** on topics:
 
@@ -69,8 +68,7 @@ Cookie, local/session storage |
 HTML, CSS |
 
 
-
-## Contacts
+## Contacts 🤙
 
 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/ivan-kozenko-qa/" title="Ivan's Linkedin">Ivan's Linkedin <i class="fa fa-1x fa-linkedin-square"></i></a>
 
