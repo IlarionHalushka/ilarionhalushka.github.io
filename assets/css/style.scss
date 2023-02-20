@@ -260,3 +260,20 @@ html {
     background-image: linear-gradient(to right, $bgcolor, #4594f1);
     margin: 0 0 0 0;
 }
+
+.scroll-up-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  opacity: 0.5;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.scroll-up-btn:hover {
+  opacity: 1;
+}
+
+.scroll-up-btn i {
+  font-size: 24px;
+}
