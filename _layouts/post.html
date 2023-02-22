@@ -27,28 +27,41 @@ comments: true
 {% include related-articles.html %}
 
 <div id="disqus_recommendations"></div>
-<script>
-  (function() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://https-ilarionhalushka-github-io.disqus.com/recommendations.js'; s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
-</script>
-
 <div class="disqus" id="disqus_thread"></div>
+
 <script async>
-	var disqus_config = function () {
-		this.page.url = document.location.href.split('?')[0].split('#')[0];
-		this.page.identifier = this.page.url;
-	};
-    (function() {
-        var d = document, s = d.createElement('script');
+  const myElement = document.querySelector('#disqus_recommendations');
 
-        s.src = 'https://https-ilarionhalushka-github-io.disqus.com/embed.js';
+  const options = {
+    rootMargin: '0px',
+    threshold: 0.5
+  };
 
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
+  const callback = function(entries, observer) {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        (function() {
+          var d = document, s = d.createElement('script');
+          s.src = 'https://https-ilarionhalushka-github-io.disqus.com/recommendations.js'; s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+
+        (function() {
+          var d = document, s = d.createElement('script');
+
+          s.src = 'https://https-ilarionhalushka-github-io.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+        console.log('Element is visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  };
+
+  const observer = new IntersectionObserver(callback, options);
+  observer.observe(myElement);
 </script>
-<script id="dsq-count-scr" src="//https-ilarionhalushka-github-io.disqus.com/count.js" async></script>
+
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
