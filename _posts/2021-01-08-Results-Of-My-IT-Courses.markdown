@@ -34,15 +34,15 @@ Michail | 20 | 4th year student (Mechanical Engineering) | 404 Not Found
 ## Timing.
 
 &nbsp;&nbsp;&nbsp; There are lots of criteria for boosting the search, and most important one is
-<a target="_blank" href="/Learning-Multiple-Foreign-Languages">English level</a>.
+<a target="_blank" href="/Learning-Multiple-Foreign-Languages/">English level</a>.
 
 &nbsp;&nbsp;&nbsp; Some students were technically stronger with better English,
 but it took them longer to find a job.
 Definitely **luck always plays role** in
-<a target="_blank" href="/How-To-Find-The-First-Job">finding first job</a>.
+<a target="_blank" href="/How-To-Find-The-First-Job/">finding first job</a>.
 
 &nbsp;&nbsp;&nbsp; On average the course took around 1 month of full time
-<a target="_blank" href="/What-And-How-I-Taught-At-My-IT-Courses">studying</a>
+<a target="_blank" href="/What-And-How-I-Taught-At-My-IT-Courses/">studying</a>
 (200-300 hours).
 
 Name | Time to study before applying | Time to first offer
@@ -68,7 +68,7 @@ Michail | [Ria](https://jobs.dou.ua/companies/ria/) | product | 200+
 ## Roles QA/AQA/Developer
 
 &nbsp;&nbsp;&nbsp; At the time of beginning of the course I was working as QA Automation Engineer,
-so the program was mostly focused on preparing <a target="_blank" href="/vacancies-analysis-for-QA-Engineers">QAs</a>.
+so the program was mostly focused on preparing <a target="_blank" href="/vacancies-analysis-for-QA-Engineers/">QAs</a>.
 
 &nbsp;&nbsp;&nbsp;  Positions of students: 3 - Manual QA, 1 - QA Automation, 1 - Developer.
 
