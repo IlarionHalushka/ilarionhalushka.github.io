@@ -24,7 +24,7 @@ Hi! I’m Ilarion Halushka.
  <li><a target="_blank" href="https://github.com/IlarionHalushka">Write</a> in JavaScript, TypeScript and Python.</li>
  <li>ex QA Automation Engineer (JS, Java).</li>
  <li>Master’s degree in IT, System Analysis.</li>
- <li>Completed <a target="_blank" href="https://ilarionhalushka.github.io/Cracking-Google-Summer-of-Code-GSoC">Google Summer of Code</a>.</li>
+ <li>Completed <a target="_blank" href="https://ilarionhalushka.github.io/Cracking-Google-Summer-of-Code-GSoC/">Google Summer of Code</a>.</li>
  <li>Open source contributor to <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
  <li>Organized Computer Sciences <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">free courses</a> for students.</li>
  <li>Winner of hackathon <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>

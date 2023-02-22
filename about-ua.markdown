@@ -23,7 +23,7 @@ permalink: /about/ua
  <li><a target="_blank" href="https://github.com/IlarionHalushka">Пишу код</a> на JavaScript, TypeScript, Python.</li>
  <li>У минулому QA Automation Engineer (JS, Java).</li>
  <li>Диплом Магістра в ІТ, Системний Аналіз.</li>
- <li>Пройшов стажування в <a target="_blank" href="https://ilarionhalushka.github.io/Cracking-Google-Summer-of-Code-GSoC">Google Summer of Code</a>.</li>
+ <li>Пройшов стажування в <a target="_blank" href="https://ilarionhalushka.github.io/Cracking-Google-Summer-of-Code-GSoC/">Google Summer of Code</a>.</li>
  <li>Open source контрибьютор у додаток <a target="_blank" href="https://github.com/RocketChat/Rocket.Chat.ReactNative">Rocket Chat</a>.</li>
  <li>Організував <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">безкоштовні курси</a> з Компьютерних наук для студентів.</li>
  <li>Переможець хакатону <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>

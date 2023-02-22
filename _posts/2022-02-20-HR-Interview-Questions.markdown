@@ -16,7 +16,7 @@ your native and English languages.
 ## General
 1. Introduce yourself / Tell us about yourself.
 1. Do you have time to work on a
-   <a target="_blank" href="/Do-Not-Waste-Your-Time-On-Test-Tasks">test task</a>?
+   <a target="_blank" href="/Do-Not-Waste-Your-Time-On-Test-Tasks/">test task</a>?
 
 ## Personality
 1. Why did you decide to choose this career path?

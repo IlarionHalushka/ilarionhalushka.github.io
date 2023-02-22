@@ -19,7 +19,7 @@ tags: job, career, students, courses
 Luckily my course was an act of volunteering, so I could filter out the students in order to avoid lazy ones.
 
 &nbsp;&nbsp;&nbsp; There were more than 5 people who wanted to study at my
-<a target="_blank" href="/Results-Of-My-IT-Courses">course</a>,
+<a target="_blank" href="/Results-Of-My-IT-Courses/">course</a>,
 and most did not complete the first task: 
 read "Testing Dot Com" book and note important terms.
 
@@ -34,7 +34,7 @@ Most never completed first task -->> filtering worked :)
 
 ## Topics Covered in Course
 &nbsp;&nbsp;&nbsp; List of skills I took mostly from my
-<a target="_blank" href="/vacancies-analysis-for-QA-Engineers">research</a>.
+<a target="_blank" href="/vacancies-analysis-for-QA-Engineers/">research</a>.
 
 Topic/Skill | Lecture time (hours)
 --- | ---
@@ -67,7 +67,7 @@ TOTAL: *~300 hours* to complete whole course and get ready for first interview:
 ## Helping Find a Job
 
 &nbsp;&nbsp;&nbsp; Tips and advices on how to find the first job you can find:
-<a target="_blank" href="/How-To-Find-The-First-Job">here</a>.
+<a target="_blank" href="/How-To-Find-The-First-Job/">here</a>.
 
 
 
