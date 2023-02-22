@@ -20,9 +20,9 @@ layout: default
 
 # Programming and testing course
 
-<div class="video-container">
+<div class="video-container" id="video-container">
   <iframe
-    src="https://www.youtube.com/embed/videoseries?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7&autoplay=0&start=251&cc_lang_pref=ru&cc_load_policy=1"
+    id="lazy-iframe"
     title="Software Testing Course by Ilarion Halushka"
     frameborder="0"
     class="video-container"
@@ -31,6 +31,31 @@ layout: default
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
+
+<script async>
+  const myElement = document.querySelector('#video-container');
+  const lazyIframe = document.querySelector("#lazy-iframe");
+
+  const options = {
+    rootMargin: '0px',
+    threshold: 0.5
+  };
+
+  const callback = function(entries, observer) {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        lazyIframe.src = "https://www.youtube.com/embed/videoseries?list=PLoZfdp36DZcqq6PoJJVHlS_c_1G89bkh7&autoplay=0&start=251&cc_lang_pref=ru&cc_load_policy=1";
+        lazyIframe.style.display = "block";
+        console.log('Element is visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  };
+
+  const observer = new IntersectionObserver(callback, options);
+  observer.observe(myElement);
+</script>
+
 
 # List of articles
 <ul class="posts-list">
