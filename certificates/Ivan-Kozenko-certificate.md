@@ -12,26 +12,32 @@ author: Ilarion Halushka
 
 {% include lazyload.html image_width="100" image_height="100" image_align="right" image_src="/assets/images/certificates/ivan-kozenko.png" image_alt="Ivan Kozenko" image_title="Ivan Kozenko" %}
 
-&nbsp;&nbsp;&nbsp; **This certificate attests that Ivan Kozenko has successfully completed an Advanced Software Testing course, which was meticulously overseen by a Senior Mentor 🎉**
+***This certificate attests that Ivan Kozenko has successfully completed an "Advanced Software Testing course by Ilarion" 🎉***
 
-Throughout the course, Ivan received personalized guidance from
+During the 6 months the course, Ivan received daily personalized education plan from
 <a target="_blank" href="/about">Ilarion Halushka</a>
-, who served as his dedicated mentor on a daily basis.
+and passed **15 exams** on the topics mentioned below.
+
 
 ## Letter of Recommendation from Mentor 📜
-&nbsp;&nbsp;&nbsp; **I highly recommend Ivan and can confidently endorse all of the skills listed on his CV 👍 .**
 
-&nbsp;&nbsp;&nbsp; Ivan is an exceptionally diligent and highly motivated individual. 
-He dedicated a significant amount of time to his studies, **spending between 8-12 hours every day, including weekends**.
+`Ivan is the BEST student I have ever mentored.`
 
-&nbsp;&nbsp;&nbsp; **Ivan is the BEST student I have ever mentored.**
+&nbsp;&nbsp;&nbsp; **I highly recommend Ivan and can confidently endorse all of the skills listed on his CV** on which topics he passed the exams.
+
+&nbsp;&nbsp;&nbsp; Ivan is an exceptionally diligent and highly motivated individual. In simple words - **ready to work hard and enjoys it :)**
+He dedicated a significant amount of time to his **studies, spending between 8-12 hours every day, including weekends**.
 
 &nbsp;&nbsp;&nbsp; Along with the robust technical skills he acquired during the course, 
 Ivan also possesses excellent communication skills and demonstrates a remarkable sense of responsibility.
 
+&nbsp;&nbsp;&nbsp; Ivan is one of those people who take action and get things done.
+For example, **during the course he improved his spoken English from A1 to B1**, consistently practicing with a tutor and watching series.
+
+
 ## Skills and Knowledge 🤓
 
-&nbsp;&nbsp;&nbsp; I can attest to the proficiency of every skill mentioned on Ivan's CV.
+&nbsp;&nbsp;&nbsp; I can attest to Ivan's proficiency of every skill mentioned below.
 
 &nbsp;&nbsp;&nbsp; Ivan has completed all homework assignments and has **passed more than 15 exams** covering topics:
 
@@ -69,7 +75,7 @@ Cookie, local/session storage |
 HTML, CSS |
 
 
-## Contact information 📞🤙
+## Contact information 📞
 
 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/ivan-kozenko-qa/" title="Ivan's Linkedin">Ivan's Linkedin <i class="fa fa-1x fa-linkedin-square"></i></a>
 
