@@ -37,8 +37,8 @@ layout: default
   const lazyIframe = document.querySelector("#lazy-iframe");
 
   const options = {
-    rootMargin: '0px',
-    threshold: 0.5
+    rootMargin: '50px',
+    threshold: 0.01
   };
 
   const callback = function(entries, observer) {
