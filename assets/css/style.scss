@@ -18,7 +18,7 @@
 }
 
 .searchform {
-    padding: 20px 0 0 0;
+    padding: 10px 0 0 0;
     background: none;
 }
 
@@ -86,6 +86,19 @@ html {
     width: 1em;
     text-align: center;
 }
+
+.fa-android.fa-3x {
+    position: relative;
+    top: -.2em;
+    padding: .15em;
+    font-size: 2em;
+    color: #000000;
+    background-color: #0F79D0;
+    border-radius: 0.2em;
+    width: 1em;
+    text-align: center;
+}
+
 
 .share-box {
     margin-top: 60px
@@ -186,7 +199,7 @@ html {
 
 .header-menu-btn {
     flex: 1 1 auto;
-    padding: 20px;
+    padding: 15px 20px 15px 20px;
     text-align: center;
     text-transform: uppercase;
     transition: 0.5s;
@@ -196,7 +209,7 @@ html {
     box-shadow: 0 0 10px #0F79D0;
     border-radius: 10px;
     background-image: linear-gradient(to right, $bgcolor, #0c69d7);
-    margin: 0 25px 25px 0;
+    margin: 0 10px 10px 0;
 }
 
 .tag {
@@ -290,6 +303,10 @@ html {
 
 .scroll-up-btn i {
   font-size: 24px;
+}
+
+h1#project_tagline {
+    margin: 0
 }
 
 
