@@ -1,19 +1,19 @@
 linkedin:
   id: 'ilarion-halushka-6a31a5173'
   href: 'https://www.linkedin.com/in/'
-  title: 'LinkedIn'
+  title: 'LinkedIn Ilarion Halushka'
   fa-icon: 'fa-linkedin-square'
 
 github:
   id: 'IlarionHalushka'
   href: 'https://github.com/'
-  title: 'GitHub'
+  title: 'GitHub IlarionHalushka'
   fa-icon: 'fa-github-square'
 
 stackoverflow:
   id: '9110955/ilarion-halushka'
   href: 'https://stackoverflow.com/users/'
-  title: 'Stackoverflow'
+  title: 'Stackoverflow Ilarion Halushka'
   fa-icon: 'fa-stack-overflow'
 
 #facebook:
@@ -25,19 +25,25 @@ stackoverflow:
 instagram:
   id: 'h.i.l.a.r.i.o.n'
   href: 'https://www.instagram.com/'
-  title: 'Instagram'
+  title: 'Instagram "Ilarion Halushka"'
   fa-icon: 'fa-instagram'
 
 apple:
   id: 'by/app/зно-на-ізі/id1578565229'
   href: 'https://apps.apple.com/'
-  title: 'App Store'
+  title: 'App Store "ZNO na izi" app'
   fa-icon: 'fa-apple'
+
+android:
+  id: 'store/apps/details?id=com.ilarionhalushka.znonaizi'
+  href: 'https://play.google.com/'
+  title: 'Google play "ZNO na izi" app'
+  fa-icon: 'fa-android'
 
 youtube:
   id: 'UC-nnrcFlfveeW8iBRJe_XXQ'
   href: 'https://www.youtube.com/channel/'
-  title: 'Youtube'
+  title: 'Youtube channel "Ilarion Halushka"'
   fa-icon: 'fa-youtube-square'
 
 
