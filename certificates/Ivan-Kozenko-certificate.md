@@ -12,9 +12,9 @@ author: Ilarion Halushka
 
 {% include lazyload.html image_width="100" image_height="100" image_align="right" image_src="/assets/images/certificates/ivan-kozenko.png" image_alt="Ivan Kozenko" image_title="Ivan Kozenko" %}
 
-***This certificate attests that Ivan Kozenko has successfully completed an "Advanced Software Testing course by Ilarion" 🎉***
+***This certificate attests that Ivan Kozenko has successfully completed the "Advanced Software Testing course by Ilarion" 🎉***
 
-During the 6 months the course, Ivan received daily personalized education plan from
+During the 6 months course, Ivan received daily personalized education plan from
 <a target="_blank" href="/about">Ilarion Halushka</a>
 and passed **15 exams** on the topics mentioned below.
 
