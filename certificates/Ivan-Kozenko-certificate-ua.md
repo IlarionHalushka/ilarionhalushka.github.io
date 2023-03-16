@@ -2,13 +2,13 @@
 layout: page
 title: Сертифікат Іван Козенко QA
 permalink: /ua/certificates/Ivan-Kozenko
-image: /assets/images/certificates/ivan-kozenko-certificate.webp
+image: /assets/images/certificates/ivan-kozenko-certificate.png
 author: Ilarion Halushka
 ---
 
 ## Сертифікат студента Іван Козенко 🎓
 
-{% include lazyload.html image_width="70%" image_height="70%" image_src="/assets/images/certificates/ivan-kozenko-certificate.webp" image_alt="Ivan Kozenko Certificate" image_title="Ivan Kozenko Certificate" %}
+{% include lazyload.html image_width="70%" image_height="70%" image_src="/assets/images/certificates/ivan-kozenko-certificate.png" image_alt="Ivan Kozenko Certificate" image_title="Ivan Kozenko Certificate" %}
 
 <div>
     <button class="lang-btn" onclick="location.href='/certificates/Ivan-Kozenko#certificate-of-completion-'" type="button">In English 🇬🇧</button>
