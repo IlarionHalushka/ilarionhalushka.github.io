@@ -8,6 +8,12 @@ author: Ilarion Halushka
 
 ## Certificate of Completion 🎓
 
+{% include lazyload.html image_width="70%" image_height="70%" image_src="/assets/images/certificates/ivan-kozenko-certificate.webp" image_alt="Ivan Kozenko Certificate" image_title="Ivan Kozenko Certificate" %}
+
+<div>
+    <button class="lang-btn" onclick="location.href='/ua/certificates/Ivan-Kozenko#сертифікат-студента-іван-козенко-'" type="button"> Українською 🇺🇦</button>
+</div>
+
 #### Ivan Kozenko
 
 {% include lazyload.html image_width="100" image_height="100" image_align="right" image_src="/assets/images/certificates/ivan-kozenko.png" image_alt="Ivan Kozenko" image_title="Ivan Kozenko" %}

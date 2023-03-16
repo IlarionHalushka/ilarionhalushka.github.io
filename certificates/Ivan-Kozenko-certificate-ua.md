@@ -8,6 +8,12 @@ author: Ilarion Halushka
 
 ## Сертифікат студента Іван Козенко 🎓
 
+{% include lazyload.html image_width="70%" image_height="70%" image_src="/assets/images/certificates/ivan-kozenko-certificate.webp" image_alt="Ivan Kozenko Certificate" image_title="Ivan Kozenko Certificate" %}
+
+<div>
+    <button class="lang-btn" onclick="location.href='/certificates/Ivan-Kozenko#certificate-of-completion-'" type="button">In English 🇬🇧</button>
+</div>
+
 {% include lazyload.html image_width="100" image_height="100" image_align="right" image_src="/assets/images/certificates/ivan-kozenko.png" image_alt="Ivan Kozenko" image_title="Ivan Kozenko" %}
 
 ***Цей сертифікат підтверджує, що Іван успішно завершив курс "Advanced Software Testing by Ilarion" 🎉***
