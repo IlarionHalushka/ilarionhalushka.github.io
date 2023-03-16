@@ -8,6 +8,8 @@ author: Ilarion Halushka
 
 ## Сертифікат студента 🎓
 
+{% include lazyload.html image_width="70%" image_height="70%" image_src="/assets/images/certificates/oleksii-lobanov-certificate.webp" image_alt="Oleksii Lobanov Certificate" image_title="Oleksii Lobanov Certificate" %}
+
 <div>
     <button class="lang-btn" onclick="location.href='/certificates/Oleksii-Lobanov#certificate-of-completion-'" type="button">In English 🇬🇧</button>
 </div>
