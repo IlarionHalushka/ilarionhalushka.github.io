@@ -2,7 +2,7 @@
 layout: page
 title: Сертифікат Іван Козенко QA
 permalink: /ua/certificates/Ivan-Kozenko
-image: /assets/images/certificates/ivan-kozenko.png
+image: /assets/images/certificates/ivan-kozenko-certificate.webp
 author: Ilarion Halushka
 ---
 

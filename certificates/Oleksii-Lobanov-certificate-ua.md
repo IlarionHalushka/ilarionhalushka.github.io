@@ -2,7 +2,7 @@
 layout: page
 title: Сертифікат Oleksii Lobanov QA
 permalink: /ua/certificates/Oleksii-Lobanov
-image: /assets/images/certificates/oleksii-lobanov.webp
+image: /assets/images/certificates/oleksii-lobanov-certificate.webp
 author: Ilarion Halushka
 ---
 
