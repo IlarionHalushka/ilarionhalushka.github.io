@@ -62,7 +62,13 @@ layout: compress
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
             {% endif %}
 
-            <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+            <h1 id="project_title">
+                IT Blog by
+                <a href="/about" class="typewrite" data-period="120000" data-type="[ &quot;Ilarion Halushka&quot; ]">
+                    <span class="blinker">Ilarion Halushka</span>
+                </a>
+            </h1>
+
             <h1 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h1>
 
             {% include social-media-links.html %}
@@ -90,4 +96,9 @@ layout: compress
         </footer>
     </div>
 </body>
+
+
+<script>
+  const TxtType=function(t,e,i){this.toRotate=e,this.el=t,this.loopNum=0,this.period=parseInt(i,10)||2e3,this.txt="",this.tick(),this.isDeleting=!1};TxtType.prototype.tick=function(){const t=this.toRotate[this.loopNum%this.toRotate.length];this.txt=this.isDeleting?t.substring(0,this.txt.length-1):t.substring(0,this.txt.length+1),this.el.innerHTML='<span class="blinker">'+this.txt+"</span>";let e=this,i=200-100*Math.random();this.isDeleting&&(i/=2),this.isDeleting||this.txt!==t?this.isDeleting&&""===this.txt&&(this.isDeleting=!1,this.loopNum++,i=300):(i=this.period,this.isDeleting=!0),setTimeout(function(){e.tick()},i)},window.onload=function(){for(let t=document.getElementsByClassName("typewrite"),e=0;e<t.length;e++){console.log(t);let i=t[e].getAttribute("data-type"),s=t[e].getAttribute("data-period");i&&new TxtType(t[e],JSON.parse(i),s)}a=document.createElement("style"),a.type="text/css",a.innerHTML=".typewrite > .blinker { border-right: 0.06em solid #333;animation: blinkTextCursor 700ms steps(44) infinite normal; padding-top: 10px;}",document.body.appendChild(a)};
+</script>
 </html>
