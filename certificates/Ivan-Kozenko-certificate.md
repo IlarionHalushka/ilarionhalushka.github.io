@@ -11,7 +11,7 @@ author: Ilarion Halushka
 {% include lazyload.html image_width="70%" image_height="70%" image_src="/assets/images/certificates/ivan-kozenko-certificate.png" image_alt="Ivan Kozenko Certificate" image_title="Ivan Kozenko Certificate" %}
 
 <div>
-    <button class="lang-btn" onclick="location.href='/ua/certificates/Ivan-Kozenko#сертифікат-студента-іван-козенко-'" type="button"> Українською 🇺🇦</button>
+    <button class="lang-btn" onclick="location.href='/ua/certificates/Ivan-Kozenko#сертифікат-студента-іван-козенко-'" type="button"> Сертифікат українською 🇺🇦</button>
 </div>
 
 #### Ivan Kozenko
