@@ -11,7 +11,7 @@ author: Ilarion Halushka
 {% include lazyload.html image_width="70%" image_height="70%" image_src="/assets/images/certificates/oleksii-lobanov-certificate.png" image_alt="Oleksii Lobanov Certificate" image_title="Oleksii Lobanov Certificate" %}
 
 <div>
-    <button class="lang-btn" onclick="location.href='/ua/certificates/Oleksii-Lobanov#сертифікат-студента-'" type="button"> Українською 🇺🇦</button>
+    <button class="lang-btn" onclick="location.href='/ua/certificates/Oleksii-Lobanov#сертифікат-студента-'" type="button">Сертифікат українською 🇺🇦</button>
 </div>
 
 #### Oleksii Lobanov
