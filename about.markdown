@@ -7,7 +7,7 @@ permalink: /about/
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Back to the list of articles</button>
 
 <div>
-    <button class="lang-btn" onclick="location.href='/about/ua'" type="button">Українською 🇺🇦</button>
+    <button class="lang-btn" onclick="location.href='/about/ua'" type="button">Про мене українською 🇺🇦</button>
 </div>
 
 
