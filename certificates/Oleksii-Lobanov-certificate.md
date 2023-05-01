@@ -28,14 +28,12 @@ author: Ilarion Halushka
 * read **3 books** about software testing;
 * started gaining **practical experience of testing** websites and creating test documentation.
 
-Example of an exam with Oleksii <a target="_blank" href="https://www.youtube.com/watch?v=HLzbaADQV5o">Youtube</a>.
-
 ## Letter of Recommendation from Mentor 📜
 
 &nbsp;&nbsp;&nbsp; Oleksii is a very hard-working and stress resistant person.
 Young, full of energy, kind, positive, passionate about testing and IT, **very motivated and ready to work HARD**.
 
-&nbsp;&nbsp;&nbsp; **I highly recommend Oleksii and can confidently endorse all of the skills listed on his CV**.
+&nbsp;&nbsp;&nbsp; **I highly recommend Oleksii and can confidently endorse all the skills listed on his CV**.
 
 &nbsp;&nbsp;&nbsp; He dedicated a significant amount of time to his **studies, spending between 8-12 hours every day, including weekends**.
 I as a mentor personally created daily educational plan for Oleksii and monitored the execution of the daily plan.
