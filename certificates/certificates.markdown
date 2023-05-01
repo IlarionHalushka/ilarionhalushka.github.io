@@ -9,3 +9,4 @@ author: Ilarion Halushka
 
 1. <a target="_blank" href="/certificates/Ivan-Kozenko">Ivan Kozenko</a>
 1. <a target="_blank" href="/certificates/Oleksii-Lobanov">Oleksii Lobanov</a>
+1. <a target="_blank" href="/certificates/Roman-Pravdiuk">Roman Pravdiuk</a>
