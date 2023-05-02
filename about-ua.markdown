@@ -7,12 +7,12 @@ permalink: /about/ua
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Назад до переліку статей</button>
 
 <div>
-    <button class="lang-btn" onclick="location.href='/about'" type="button">About me in English 🇬🇧</button>
+    <button class="lang-btn" onclick="location.href='/about#main_content_wrap'" type="button">About me in English 🇬🇧</button>
 </div>
 
 <h1 itemprop="name">{{ page.title }}</h1>
 
-<img align="right" src="/assets/images/about-me-my-photo.jpg" alt="Ilarion Halushka" width="135" height="178"/>
+<img align="right" src="/assets/images/about-me-my-photo.webp" alt="Ilarion Halushka" width="200" height="196"/>
 
 Привіт, мене звати Іларіон Галушка.
 
