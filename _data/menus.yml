@@ -2,6 +2,6 @@
 header:
   - url: /
     title: Home
-  - url: /about/
+  - url: /about#main_content_wrap
     title: About me
 ---
