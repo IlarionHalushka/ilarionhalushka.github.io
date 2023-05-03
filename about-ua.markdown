@@ -12,7 +12,7 @@ permalink: /about/ua
 
 <h1 itemprop="name">{{ page.title }}</h1>
 
-<img align="right" src="/assets/images/about-me-my-photo.webp" alt="Ilarion Halushka" width="200" height="196"/>
+<img align="right" src="/assets/images/about-me-my-photo.webp" alt="Ilarion Halushka" width="150" height="147"/>
 
 Привіт, мене звати Іларіон Галушка.
 
