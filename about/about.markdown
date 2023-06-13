@@ -2,6 +2,9 @@
 layout: page
 title: About author
 permalink: /about/
+redirect_from:
+    - /ru/about
+    - /about/ru
 ---
 
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Back to the list of articles</button>

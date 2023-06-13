@@ -2,6 +2,8 @@
 layout: page
 title: Про автора
 permalink: /about/ua
+redirect_from:
+    - /ua/about
 ---
 
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Назад до переліку статей</button>
