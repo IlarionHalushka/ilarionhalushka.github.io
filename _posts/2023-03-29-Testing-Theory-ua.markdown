@@ -22,7 +22,9 @@ tags: best, testing, qa, interview
 hidden: true
 ---
 
-`Питання на співбесідах Trainee/Junior/Middle Manual QA в середньому на 50% складаються з теорії тестування.`
+------
+
+**Питання на співбесідах Trainee/Junior/Middle Manual QA в середньому на 50% складаються з теорії тестування.**
 
 ## Навігація:
 
