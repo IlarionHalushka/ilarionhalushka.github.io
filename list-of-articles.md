@@ -72,11 +72,53 @@ Think of creative images for articles +++
 Add menu +++
 Add section in menu `best 10 articles` +++
 Language - about me in UA/RU/EN +++
-
-Add tags
+Add to articles “5 mins read” +++
+Add tags +++
 Add suggestions what to read next
-Add articles filtering by tags
 Pagination
+Optimize images https://tinypng.com/
+Text header animation
+Add articles filtering by tags
+Run all articles through chat gpt
+Add suggestions what to read next
+Partytown load analytics in separate workers
+
+load youtube video facade https://gtmetrix.com/reports/ilarionhalushka.github.io/X1tXEHHO/ Some third-party embeds can be lazy loaded. Consider replacing them with a facade until they are required.
+youtube video thumbnail
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Load YouTube Video Thumbnail</title>
+  </head>
+  <body>
+    <div id="video-container">
+      <img id="thumbnail" src="https://i.ytimg.com/vi/VIDEO_ID/mqdefault.jpg">
+    </div>
+
+    <script>
+      const videoContainer = document.querySelector('#video-container');
+      const thumbnail = document.querySelector('#thumbnail');
+
+      videoContainer.addEventListener('click', () => {
+        const iframe = document.createElement('iframe');
+        iframe.setAttribute('src', `https://www.youtube.com/embed/VIDEO_ID?autoplay=1`);
+        iframe.setAttribute('frameborder', '0');
+        iframe.setAttribute('allowfullscreen', '');
+
+        videoContainer.innerHTML = '';
+        videoContainer.appendChild(iframe);
+      });
+    </script>
+  </body>
+</html>
+    
+
+
+https://www.webpagetest.org/
+
+https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect
+
 
 Tags cloud
 https://dev.to/alvaromontoro/create-a-tag-cloud-with-html-and-css-1e90
@@ -90,3 +132,7 @@ it also has seo optimization article and CDN setup
 
 Sitemap online generation with spider robots
 https://xmlsitemapgenerator.org/Free/download.aspx?job=af62b155-5086-4cb0-a6d2-25c53444578c
+
+seo optimization
+https://blog.webjeda.com/optimize-jekyll-seo/
+
