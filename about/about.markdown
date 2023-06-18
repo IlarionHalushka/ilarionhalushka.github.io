@@ -12,15 +12,15 @@ redirect_from:
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Back to the list of articles</button>
 
 [//]: # (<div>)
-
 [//]: # (    <button class="lang-btn" onclick="location.href='/about/ua#main_content_wrap'" type="button">Про мене українською 🇺🇦</button>)
-
 [//]: # (</div>)
 
 
 <h1 itemprop="name">{{ page.title }}</h1>
 
+
 <img align="right" src="/assets/images/about-me-my-photo.webp" alt="Ilarion Halushka" width="150" height="147"/>
+
 
 Hi! I’m Ilarion Halushka - Senior Fullstack Software Engineer with **7 years of experience**. 
 
@@ -29,19 +29,14 @@ Focusing mostly on back-end <a target="_blank" href="https://github.com/IlarionH
 Also deliver front-end on **React** and mobile apps on **React Native**.
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>
+  <img src="/assets/images/technologies/js-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="/assets/images/technologies/typescript-icon.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+  <img src="/assets/images/technologies/nodejs-icon.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+  <img src="/assets/images/technologies/react-icon.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="/assets/images/technologies/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="/assets/images/technologies/aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="/assets/images/technologies/postgresql-icon.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
+  <img src="/assets/images/technologies/mongodb-icon.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
 </div>
 
 Working at <a target="_blank" href="https://khealth.com/">K Health</a>.
