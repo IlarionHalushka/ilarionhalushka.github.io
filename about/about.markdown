@@ -4,9 +4,13 @@ title: About author
 permalink: /about/
 redirect_from:
     - /ru/about
+    - /ru/about/
     - /about/ru
+    - /about/ru/
     - /about/ua
+    - /about/ua/
     - /ua/about
+    - /ua/about/
 ---
 
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Back to the list of articles</button>
