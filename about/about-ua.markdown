@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Про автора
-permalink: /about/ua
+[//]: # (permalink: /about/ua)
 redirect_from:
-    - /ua/about
+
+[//]: # (    - /ua/about)
+
+[//]: # (    - /ua/about)
 ---
 
 <button class="back-to-articles-btn" onclick="location.href='/'" type="button"><- Назад до переліку статей</button>
