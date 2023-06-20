@@ -23,7 +23,7 @@ tags: best, testing, qa, interview
 ---
 
 <div>
-    <a class="lang-btn" href="/ua/testing-theory/#main_content_wrap" target="_blank">Теорія тестування українською 🇺🇦</a>
+    <a class="lang-btn" href="/ua/testing-theory#main_content_wrap" target="_blank">Теорія тестування українською 🇺🇦</a>
 </div>
 
 -------
