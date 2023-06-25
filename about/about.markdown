@@ -38,7 +38,7 @@ Passionate about technologies and love working in Healthcare industry revolution
 
 ### Youtube
 <ul>
- <li>Author of the free Computer Sciences <a target="_blank" href="https://www.youtube.com/@IlarionHalushka">course on youtube <i class="fa fa-1x fa-youtube"></i></a>.</li>
+ <li>Author of a free Computer Sciences <a target="_blank" href="https://www.youtube.com/@IlarionHalushka">course on youtube <i class="fa fa-1x fa-youtube"></i></a>.</li>
 </ul>
 
 <div id="badges">
@@ -53,21 +53,21 @@ Passionate about technologies and love working in Healthcare industry revolution
     <summary>Senior Fullstack Software Engineer at <a target="_blank" href="https://khealth.com/">K Health</a></summary>
     <div>📅 sep 2021 - present</div>
     <div>📍 New York (remote)</div>
-    <div>🦾 Tech stack: Node.js, TypeScript/JavaScript, Python, React, React Native, MongoDB, PostgreSQL, Microservices/SOA, Redis, Docker.</div>
+    <div>🦾 Tech stack: Node.js, JavaScript/TypeScript, Python, React, React Native, MongoDB, PostgreSQL, Microservices/SOA, pubnub, Redis, Docker.</div>
 </details>
 
 <details class="experience_details">
     <summary>Senior Backend Engineer at <a target="_blank" href="https://www.castingnetworks.com/">Casting Networks</a></summary>
     <div>📅 sep 2019 - sep 2021</div>
     <div>📍 Los Angeles, California (remote)</div>
-    <div>🦾 Tech stack: Node.js, TypeScript/JavaScript, Nest.js, GraphQL, PostgreSQL, DynamoDB, AWS, Microservices/SOA, Kinesis, Lambda, SQS, S3, SNS, Redis, ElasticSearch, Docker, Terraform.</div>
+    <div>🦾 Tech stack: Node.js, JavaScript/TypeScript, Nest.js, GraphQL, PostgreSQL, DynamoDB, AWS, Microservices/SOA, Kinesis, Lambda, SQS, S3, SNS, Redis, ElasticSearch, Docker, Terraform.</div>
 </details>
 
 <details class="experience_details">
     <summary>Fullstack Software Engineer at <a target="_blank" href="https://codemotion.ninja/">Codemotion</a></summary>
     <div>📅 nov 2017 - sep 2019</div>
     <div>📍 Kyiv, Ukraine (remote)</div>
-    <div>🦾 Tech stack: Node.js, TypeScript/JavaScript, Express, React, React Native, Angular, Ionic, MongoDB, Cypress.</div>
+    <div>🦾 Tech stack: Node.js, JavaScript/TypeScript, Express, React, React Native, Angular, Ionic, MongoDB, Cypress.</div>
 </details>
 
 <details class="experience_details">
@@ -92,7 +92,7 @@ Passionate about technologies and love working in Healthcare industry revolution
 
 Category | Skill 
 -------- |-------
-Languages | **TypeScript/JavaScript** (primary), Python (secondary), Java (prior)
+Languages | **JavaScript/TypeScript** (primary), Python (secondary), Java (prior)
 Backend | **Node.js**, Nest.js, Express
 Backend | REST, GraphQL, Microservices, SOA
 Frontend | React.js, Redux
@@ -120,7 +120,7 @@ which helped more than 5000 school pupils prepare for exams. The app got highly 
 
 <ul>
  <li>Winner of hackathon <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
- <li>Organized free offline Computer Sciences <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">courses for students</a>.</li>
+ <li>Organized a free offline Computer Sciences <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">courses for students</a>.</li>
  <li><a target="_blank" href="https://gist.github.com/IlarionHalushka/aebab1c82369b89c1d6afb12be568679">ISTQB</a> certification.</li>
  <li>Publication in scientific magazine <a target="_blank" href="https://im.nmu.org.ua/en/forum/Horizons2019.pdf">Data Mining used in vacancies analysis</a>.</li>
 </ul>
