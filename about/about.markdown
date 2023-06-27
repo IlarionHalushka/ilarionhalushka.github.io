@@ -120,7 +120,7 @@ which helped more than 5000 school pupils prepare for exams. The app got highly 
 
 <ul>
  <li>Winner of hackathon <a target="_blank" href="https://www.testuastartups.com/post/testuastartups8">TEST UA STARTUPS #8</a>.</li>
- <li>Organized a free offline IT <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">courses for students</a>.</li>
+ <li>Organized a free offline IT <a target="_blank" href="https://ilarionhalushka.github.io/Results-Of-My-IT-Courses/">course for students</a>.</li>
  <li><a target="_blank" href="https://gist.github.com/IlarionHalushka/aebab1c82369b89c1d6afb12be568679">ISTQB</a> certification.</li>
  <li>Publication in scientific magazine <a target="_blank" href="https://im.nmu.org.ua/en/forum/Horizons2019.pdf">Data Mining used in vacancies analysis</a>.</li>
 </ul>
