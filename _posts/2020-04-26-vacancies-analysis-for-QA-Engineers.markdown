@@ -61,6 +61,9 @@ However, let’s consider a better analytical way.
 &nbsp;&nbsp;&nbsp; So there was developed a system for fetching vacancies from public API by keyword ‘qa engineer’.
 Around 400 vacancies have been collected and analysed.
 
+⚠️ ⚠️⚠️
+```Disclaimer : this research was made in 2019 or 2018. Since that time industry and requirements changed a lot. This article is kept here just for the history.```
+
 #### Top of skills by categories:
 {% include lazyload.html image_src="/assets/images/top-of-skills-by-categories-every-software-tester-should-have.png" image_alt="Top of skills by categories every Software Tester should have" image_title="Top of skills by categories" %}
 
