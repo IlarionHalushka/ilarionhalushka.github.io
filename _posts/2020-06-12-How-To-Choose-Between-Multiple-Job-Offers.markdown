@@ -24,34 +24,42 @@ next_posts: [Salary-Review-Tips, Do-Not-Ever-Accept-Counter-Offer]
 
 ## General Criteria to Consider
 
+#### Compensation package
 * **Salary**
-* **Stocks**: yes/no
-* **Remote**: yes/partly/no
-* **Schedule**: flexible/rigid
-* **Company Reputation**
-* **Career growth**: slow/normal/fast
-* **Team size**: small/medium/large
-* **Overtimes**: no/sometimes/yes, paid/unpaid
-* **Bureaucracy**: no/bearable/unbearable
-* **Location**: 30m/1h/1h30m
+* **Stocks / options**: yes/no
 * **Vacations**: 20/25/30, paid/unpaid
 * **Public holidays**: paid/unpaid
-* **Sick leave**: yes/no, paid/unpaid
+* **Sick leave**: 0/5/10 days, paid/unpaid
 * **Relocation package**
 * **Signing bonus**
 * **Medical insurance**: no/cheap/good
-* **Conferences, Sport compensation**: no/yes 
-* **Team spirit, team buildings, corporate parties**: never/sometimes/often 
+* **Conferences, Education, Sport compensation**: no/yes
+
+#### Working conditions
+* **Remote**: yes/partly/no
+* **Schedule**: flexible/rigid
 * **Time tracker (screen recording)**: yes/no
-* **Laptop/tools**: yes/no
-* **Contract duration**: no obligations/ 1 year/2 years
+* **Office Location**: 30m/1h/1h30m
+* **Overtimes**: no/sometimes/yes, paid/unpaid
+* **Laptop/tools**: no/average/best
+
+#### Company
+* **Company Reputation**
+* **Industry / impact** of the project
+* **Career growth**: slow/normal/fast
+* **Team size**: small/medium/large
+* **Bureaucracy**: no/bearable/unbearable
+* **Team spirit, team buildings, corporate parties**: never/sometimes/often
+* **Reviews about company** (e.g. on dou, glassdoor)
 * **Team average age**: 10 years younger/your age/10 years older
-* **Management location**: at the same office as you / abroad 
+* **Management location**: at the same office as you / abroad
+* **Contract duration**: no obligations/1 year/2 years
 
 ## IT Specific Criteria to Consider
 
 * **Team professionalism**: juniors/middles/seniors
 * **Project**: ongoing/new/legacy
+* **Project type**: startup/product/outsource
 * **Project Complexity**: easy/moderate/complex
 * **Tech Stack**: modern, outdated
 * **Development processes**: poor/ok/good
