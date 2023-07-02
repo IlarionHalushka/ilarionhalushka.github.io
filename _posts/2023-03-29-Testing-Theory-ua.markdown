@@ -677,3 +677,6 @@ bugsclock.blogspot.com,
 www.zeelabs.com,
 devopswiki.net,
 hvorostovoz.blogspot.com.
+
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="IlarionHalushka" data-color="#0a0641" data-emoji="" data-font="Cookie" data-text="Віддячити автору" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
