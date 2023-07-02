@@ -164,3 +164,7 @@ Feel free to connect and contact me on linkedin.
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilarion-halushka-6a31a5173/)
 [![instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/h.i.l.a.r.i.o.n/)
 [![youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC-nnrcFlfveeW8iBRJe_XXQ)
+
+### Support channel
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="IlarionHalushka" data-color="#0a0641" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
