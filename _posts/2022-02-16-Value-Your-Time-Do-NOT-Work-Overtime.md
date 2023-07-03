@@ -11,10 +11,18 @@ keywords:
 tags: career, development
 ---
 
+**You can work overtime for a day, for a week, maybe a month, not more.
+If overtime becomes the new normal for you then eventually your productivity drops and YOU BURN OUT...**
+
+````
+Are YOU skilled enough to fulfill your responsibilities
+during working hours without overtime?
+````
+
 ## Have You Ever Spent Evenings or Weekends Working for "Thank you"?
 &nbsp;&nbsp;&nbsp; I bet you felt that strange feeling inside you.
-When you are tired, when your partner is already in bed, when your eyes are burning,
-when you stop feeling your neck and back...
+When you are tired, when your partner is already in bed, **when your eyes are burning,
+when you stop feeling your neck and back**...
 
 &nbsp;&nbsp;&nbsp;  You keep on working, you feel like it's your duty, 
 you are the **superhero who will same the team** and push the last fixes right before the deadline.
