@@ -19,6 +19,11 @@ tags: communication, developer, professionalism, skills
 
 {% include lazyload.html image_src="/assets/images/say-what-again.webp" image_alt="Say What Again" image_title="Say What Again" %}
 
+I worked in multiple teams on multiple projects.
+As the projects and teams changed I could notice same behaviour patterns of my peers.
+Some of them I liked and adopted, some of them I hate.
+Here I share a small list of the phrases that I hate to hear from my peers.
+
 * "I introduced breaking changes, let others fix that."
 * "My task broke because of them/him/her."
 * "I will try". You either do or do not do, there is no "try".
