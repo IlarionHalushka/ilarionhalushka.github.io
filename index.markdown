@@ -14,7 +14,7 @@ layout: default
         <a target="_blank" href="/How-To-Make-Developers-Perform/">How To Make Developers Perform</a>
     </li>
     <li>
-        <a target="_blank" href="/Why-Testers-Hate-Developers/">Why Testers Hate Developers</a>
+        <a target="_blank" href="/Soft-Skills-of-Senior-Developer/">Soft Skills of Senior Engineer</a>
     </li>
 </ul>
 
