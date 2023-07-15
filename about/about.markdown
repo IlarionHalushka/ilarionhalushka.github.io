@@ -37,9 +37,8 @@ Passionate about technologies and love working in Healthcare industry revolution
 
 
 ### Youtube
-<ul>
- <li>Author of a free IT <a target="_blank" href="https://www.youtube.com/@IlarionHalushka">course on youtube <i class="fa fa-1x fa-youtube"></i></a>.</li>
-</ul>
+
+Author of a free IT <a target="_blank" href="https://www.youtube.com/@IlarionHalushka">course on youtube <i class="fa fa-1x fa-youtube"></i></a>
 
 <div id="badges">
   <img src="https://img.shields.io/youtube/channel/subscribers/UC-nnrcFlfveeW8iBRJe_XXQ?style=social" alt="Youtube subscribers"/>
