@@ -44,12 +44,12 @@ Or simply entry level candidates do not have other option but to follow the proc
 
 ## What Kind Of Test Task I Would Do?
 * paid.
-* interesting (maybe new technologies).
+* interesting for me (maybe new technologies).
 * real life (fixing or refactoring some production code).
 
 ## Alternative Ways Of Validating Skills?
 * live coding during interview.
-* reviewing github projects/open source contributions.
+* reviewing github/pet projects/open source contributions.
 * checking stackoverflow answers.
 
 **Time is money. Money is time.**
