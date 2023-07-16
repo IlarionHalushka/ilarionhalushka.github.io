@@ -68,6 +68,11 @@ next_posts: [Salary-Review-Tips, Do-Not-Ever-Accept-Counter-Offer]
 * **Code reviews**: yes/no
 * **Night shift/duty**: yes/no
 
+`Chances are that some facts will be hidden from you during the interview process.`
+
+`Pro tip: get in touch with current or previous employees and ask questions. 
+You are not losing anything if you ask.`
+
 ## Maths. Decision Theory.
 
 &nbsp;&nbsp;&nbsp; When there are multiple options (offers), and the decision has to be made based on some criteria,
