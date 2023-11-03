@@ -139,6 +139,11 @@ which helped more than 5000 school pupils prepare for exams. The app got highly 
   />
 </a>
 
+### Mentorship
+
+<ul>
+ <li>Mentored 8 of my friends & relatives and helped them find their first jobs in IT.</li>
+</ul>
 
 ### Hobbies & Interesting facts
 
@@ -146,7 +151,6 @@ which helped more than 5000 school pupils prepare for exams. The app got highly 
  <li>Speak English, German, Ukrainian, Russian and <a target="_blank" href="https://www.duolingo.com/profile/IlarionHalushka">started learning Spanish</a>.</li>
  <li>Visited 8 countries 🇬🇧 🇬🇪 🇩🇰 🇦🇹 🇹🇷 🇪🇬 🇭🇺 🇸🇰 and lived in 🇺🇸 🇩🇪.</li>
 </ul>
-
 
 ### Contacts & CV
 
