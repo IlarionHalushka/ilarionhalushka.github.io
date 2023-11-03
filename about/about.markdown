@@ -28,7 +28,7 @@ redirect_from:
 
 Hi! I’m Ilarion Halushka - Senior Fullstack Software Engineer with **7 years of experience**. 
 
-Focusing mostly on back-end <a target="_blank" href="https://github.com/IlarionHalushka">development</a> in **JavaScript/TypeScript/Node.js** (primary) and Python (secondary).
+Focusing mostly on back-end <a target="_blank" href="https://github.com/IlarionHalushka">development</a> in **JavaScript/TypeScript/Node.js** (primary) and **Python** (secondary).
 
 Also deliver front-end on **React** and mobile apps on **React Native**.
 
@@ -104,7 +104,7 @@ Testing | Mocha, Jest, Chai, Selenium, Cypress, Detox, Appium
 
 ### Personal Projects
 <ul>
- <li>Creator of "ZNO na izi" app (<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ilarionhalushka.znonaizi">Android</a>, <a target="_blank" href="https://apps.apple.com/by/app/%D0%B7%D0%BD%D0%BE-%D0%BD%D0%B0-%D1%96%D0%B7%D1%96/id1578565229">iOS</a>) 
+ <li>Creator of "ZNO na izi" app (<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ilarionhalushka.znonaizi&gl=UA&hl=en-US">Android</a>, <a target="_blank" href="https://apps.apple.com/ua/app/зно-на-ізі/id1578565229">iOS</a>) 
 which helped more than 5000 school pupils prepare for exams. The app got highly appreciated with 4.8 ⭐ rating.</li>
 </ul>
 
@@ -147,13 +147,6 @@ which helped more than 5000 school pupils prepare for exams. The app got highly 
  <li>Visited 8 countries 🇬🇧 🇬🇪 🇩🇰 🇦🇹 🇹🇷 🇪🇬 🇭🇺 🇸🇰 and lived in 🇺🇸 🇩🇪.</li>
 </ul>
 
-[//]: # (helped mentees links)
-[//]: # (helped mentees links)
-[//]: # (helped mentees links)
-[//]: # (helped mentees links)
-[//]: # (helped mentees)
-[//]: # (helped mentees)
-[//]: # (helped mentees)
 
 ### Contacts & CV
 

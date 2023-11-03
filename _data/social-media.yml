@@ -23,13 +23,13 @@ stackoverflow:
 #  fa-icon: 'fa-facebook-square'
 
 apple:
-  id: 'by/app/зно-на-ізі/id1578565229'
+  id: 'ua/app/зно-на-ізі/id1578565229'
   href: 'https://apps.apple.com/'
   title: 'App Store `ZNO na izi` app'
   fa-icon: 'fa-apple'
 
 android:
-  id: 'store/apps/details?id=com.ilarionhalushka.znonaizi'
+  id: 'store/apps/details?id=com.ilarionhalushka.znonaizi&gl=UA&hl=en-US'
   href: 'https://play.google.com/'
   title: 'Google play `ZNO na izi` app'
   fa-icon: 'fa-android'
