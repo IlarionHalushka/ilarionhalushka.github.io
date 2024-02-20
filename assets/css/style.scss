@@ -67,10 +67,6 @@ html {
     background: $bgcolor;
 }
 
-#main_content a {
-    color: blue;
-}
-
 #main_content {
     padding-top: 0px;
 }
@@ -298,9 +294,13 @@ html {
     height:100%;
 }
 
+.lang-btn-container {
+    margin-bottom: 10px;
+}
+
 .lang-btn {
     flex: 1 1 auto;
-    padding: 5px;
+    padding: 8px;
     text-align: center;
     transition: 0.5s;
     background-size: 200% auto;
@@ -348,4 +348,41 @@ h1#project_tagline {
 
 .experience_details {
     margin-bottom: 20px;
+}
+
+
+#social-media i {
+    transition: transform 0.3s ease;
+}
+
+#social-media i:hover {
+    transform: scale(0.8);
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 3px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 12px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
 }

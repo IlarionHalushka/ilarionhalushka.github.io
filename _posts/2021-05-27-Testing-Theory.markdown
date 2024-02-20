@@ -22,11 +22,9 @@ keywords:
 tags: best, testing, qa, interview
 ---
 
-<div>
+<div class="lang-btn-container">
     <a class="lang-btn" href="/ua/testing-theory#main_content_wrap" target="_blank">Теорія тестування українською 🇺🇦</a>
 </div>
-
--------
 
 **Вопросы на собеседованиях Trainee/Junior/Middle Manual QA в среднем на 50% состоят из теории тестирования.**
 
@@ -40,9 +38,9 @@ tags: best, testing, qa, interview
 ### 5. [Тест-план](#5-тест-план-)
 ### 6. [Тест-дизайн](#6-тест-дизайн-)
 ### 7. [Техники тест-дизайна](#7-техники-тест-дизайна-)
-### 8. [Продвинутые техники тест-дизайна](#8-продвинутые-техники-тест-дизайна)
-### 9. [Бонусные и Авторские Техники тест-дизайна](#9-бонусные-и-авторские-техники-тест-дизайна)
-### 10. [Exploratory vs Ad-hoc testing](#10-exploratory-vs-ad-hoc-testing)
+### 8. [Продвинутые техники тест-дизайна](#8-продвинутые-техники-тест-дизайна-1)
+### 9. [Бонусные и Авторские Техники тест-дизайна](#9-бонусные-и-авторские-техники-тест-дизайна-1)
+### 10. [Exploratory vs Ad-hoc testing](#10-exploratory-vs-ad-hoc-testing-1)
 ### 11. [Test Case (Тестовый случай)](#11-test-case-тестовый-случай--)
 ### 12. [Check-list (Чек-лист)](#12-check-list-чек-лист----)
 ### 13. [Bug Report (Баг-репорт)](#13-bug-report-баг-репорт----)
@@ -672,8 +670,8 @@ Scrum-ban <a target="_blank" rel="noreferrer" href="https://youtu.be/MlSrfLhgXHo
 
 &nbsp;&nbsp;&nbsp; Всегда рад получать конструктивную критику по контенту лекций и этой статье. Не стесняйтесь 🤗 ☀️
 
-<div>
-    <a class="lang-btn" onclick="location.href='/ua/testing-theory/'" target="_blank">Теорія тестування українською 🇺🇦</a>
+<div class="lang-btn-container">
+    <a class="lang-btn" onclick="location.href='/ua/testing-theory#main_content_wrap'" target="_blank">Теорія тестування українською 🇺🇦</a>
 </div>
 
 Источники:
@@ -689,5 +687,5 @@ www.zeelabs.com,
 devopswiki.net, 
 hvorostovoz.blogspot.com.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="IlarionHalushka" data-color="#0a0641" data-emoji="" data-font="Cookie" data-text="Выразить благодарность автору" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="IlarionHalushka" data-color="#0a0641" data-emoji="" data-font="Cookie" data-text="Отблагодарить" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 

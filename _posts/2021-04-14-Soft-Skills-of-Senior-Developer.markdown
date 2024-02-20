@@ -35,7 +35,7 @@ tags: career, soft skills, senior
 #### Responsible
 * Self-managing.
 * Independent.
-* Manages his <a target="_blank" href="/Time-Management-Tips">time</a>.
+* Manages his <a target="_blank" href="/Time-Management-Tips-1#main_content_wrap">time</a>.
 * Knows the "definition of done".
 * Doesn't push code without proper testing.
 * Doesn't hesitate to raise a red flag.
